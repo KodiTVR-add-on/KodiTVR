@@ -1,217 +1,225 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5180.m3u8
 #EXTINF:-1,RTP 1
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1.m3u8
-#EXTINF:-1,RTP 2 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5181.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1341708203?ticket=77EDBBFC4F9E703959064868DB00B89819513089&profile=pass
 #EXTINF:-1,RTP 2
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/2.m3u8
-#EXTINF:-1,SIC HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5182.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1322553424?ticket=10C126DBC95BE4721BFD1956504BD893D67EADBB&profile=pass
 #EXTINF:-1,SIC
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/3.m3u8
-#EXTINF:-1,TVI HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5183.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1982744596?ticket=9D468A777C8476CFB6CE5F15DAE5DCA382767240&profile=pass
 #EXTINF:-1,TVI
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/4.m3u8
-#EXTINF:-1,TVI 24
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/7.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1355918115?ticket=226BD0A82A8E28E4C69B1BA4E4CA7D8FFB01FE60&profile=pass
+#EXTINF:-1,SIC Noticias
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1894189002?ticket=8525AD021D8864F14E09CF2228613AB61A297C46&profile=pass
 #EXTINF:-1,CMTV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/11.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/809631889?ticket=F4C99D5C677EBF5798FD0194E28AA450BC62A3D4&profile=pass
+#EXTINF:-1,TVI 24
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1002916582?ticket=235DBB2D291FC834E2A14F5F063B919104A3025E&profile=pass
 #EXTINF:-1,RTP 3
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/8.m3u8
-#EXTINF:-1,SIC MULHER
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/6.m3u8
-#EXTINF:-1,SIC RADICAL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/9.m3u8
-#EXTINF:-1,CANAL 11 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/699.m3u8
-#EXTINF:-1,GLOBO
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/10.m3u8
-#EXTINF:-1,PORTO CANAL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/12.m3u8
-#EXTINF:-1,CANAL Q
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/14.m3u8
-#EXTINF:-1,TVI REALITY
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/15.m3u8
-#EXTINF:-1,TVI FICCAO
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/16.m3u8
-#EXTINF:-1,RTP ACORES
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/18.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/19.m3u8
-#EXTINF:-1,A BOLA TV HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/17.m3u8
-#EXTINF:-1,SPORT TV+ HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/38.m3u8
-#EXTINF:-1,SPORT TV 1
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/20.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/25.m3u8
-#EXTINF:-1,SPORT TV 2
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/21.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/26.m3u8
-#EXTINF:-1,SPORT TV 3
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/22.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/27.m3u8
-#EXTINF:-1,SPORT TV 4
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/23.m3u8
-#EXTINF:-1,SPORT TV 5
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/24.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/231.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/232.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/233.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/234.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/235.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/236.m3u8
-#EXTINF:-1,BTV 1 HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1823.m3u8
-#EXTINF:-1,PFC
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/724.m3u8
-#EXTINF:-1,SPORTING TV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/34.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/32.m3u8
-#EXTINF:-1,NBA TV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/725.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/130.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/131.m3u8
-#EXTINF:-1,TOROS TV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/141.m3u8
-#EXTINF:-1,CACAVISION
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/143.m3u8
-#EXTINF:-1,CACA E PESCA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/142.m3u8
-#EXTINF:-1,FUEL TV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/133.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/40.m3u8
-#EXTINF:-1,NICKELODEON
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/41.m3u8
-#EXTINF:-1,CANAL PANDA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/42.m3u8
-#EXTINF:-1,BIGGS
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/43.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/44.m3u8
-#EXTINF:-1,SIC K HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/45.m3u8
-#EXTINF:-1,BABY TV
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/46.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/47.m3u8
-#EXTINF:-1,JIM JAM
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/48.m3u8
-#EXTINF:-1,TV CINE TOP
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/50.m3u8
-#EXTINF:-1,TV CINE EDITION
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/51.m3u8
-#EXTINF:-1,TV CINE EMOTION
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/52.m3u8
-#EXTINF:-1,TV CINE ACTION
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/53.m3u8
-#EXTINF:-1,TVCine TOP HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/81.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/22433663?ticket=BA8999D5BE9B384592DE0EAC396F1C2AB3BE082A&profile=pass
+#EXTINF:-1,Porto Canal
+http://iptvbarbosa.ddns.net:9981/stream/channelid/471448663?ticket=C57C4090EB75DA13E148E554C4EB0BA86EFFDE27&profile=pass
+#EXTINF:-1,SIC Caras
+http://iptvbarbosa.ddns.net:9981/stream/channelid/304019044?ticket=37A50B895F3F92D2038572B0EA949D493B2BC1CA&profile=pass
+#EXTINF:-1,SIC Mulher
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1865363134?ticket=F4624BA1C3BBF77E43A0585E73BD2B7C9034363D&profile=pass
+#EXTINF:-1,SIC Radical
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1027978994?ticket=5CBA7ECE9519852D8414D1CE4F309F0002E05D8B&profile=pass
+#EXTINF:-1,RTP AĿores
+http://iptvbarbosa.ddns.net:9981/stream/channelid/893768947?ticket=66444FD7522CA4D079BBDD2EF534DAB7AB33DC82&profile=pass
+#EXTINF:-1,RTP Madeira
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1690736544?ticket=68362517FDF17D4209F1B5962F2EF87A26714784&profile=pass
+#EXTINF:-1,RTP Memðria
+http://iptvbarbosa.ddns.net:9981/stream/channelid/972345321?ticket=F1A1389DB955D16D621C1234D04A121157BE6199&profile=pass
+#EXTINF:-1,RTP rica
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1166008179?ticket=F17A9926E9BD70530338AA2727769F9FF627341B&profile=pass
+#EXTINF:-1,TVI Reality
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1772787056?ticket=AD18BD07778D55DF84D0266BBD4F7649181902C3&profile=pass
+#EXTINF:-1,Canal Q
+http://iptvbarbosa.ddns.net:9981/stream/channelid/832673205?ticket=0AB77B50F6ABF1069B06EB52C1D8154316B0A055&profile=pass
+#EXTINF:-1,AR TV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1492946792?ticket=B5CC04D7F8CFDC0E5BC0D0FE53E5A1368BF35299&profile=pass
+#EXTINF:-1,ETV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1403575455?ticket=C60D8A911B38C388205DFCA194246EF8885E2FAD&profile=pass
+#EXTINF:-1,Globo
+http://iptvbarbosa.ddns.net:9981/stream/channelid/514188368?ticket=61ED0D79D64D52696EAE267BC1C4C3CFD5294FD4&profile=pass
+#EXTINF:-1,TV Record
+http://iptvbarbosa.ddns.net:9981/stream/channelid/371190132?ticket=6F5573EC1A5B628CF26FFCA84A307DC8593DA8F1&profile=pass
+#EXTINF:-1,Cartoon Network Portugal
+http://iptvbarbosa.ddns.net:9981/stream/channelid/692952027?ticket=EDAD782BE5AE9D76D9777327E0BF9D5CC0CE3B64&profile=pass
+#EXTINF:-1,Nickelodeon
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1980639659?ticket=1D051C39FDFBAF0CA7847F852692F327A4F1E398&profile=pass
+#EXTINF:-1,Disney Junior
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1886563150?ticket=2282BA4AF11D63C4A01796F93C80F43C33EFD5D7&profile=pass
+#EXTINF:-1,Canal Panda
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1198028542?ticket=8DA9A6F6938EF0B9BEA0CA2DBD44FBF3313B80DB&profile=pass
+#EXTINF:-1,Biggs
+http://iptvbarbosa.ddns.net:9981/stream/channelid/719901272?ticket=D4B99ED013CBB54815382AD92F306EC098068821&profile=pass
+#EXTINF:-1,Baby First
+http://iptvbarbosa.ddns.net:9981/stream/channelid/678073495?ticket=14D941630D7457345676029C1DC0748BD9568006&profile=pass
+#EXTINF:-1,TVCine 1 HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1195980824?ticket=6FC67C6AC5FA32011AC6A7B582FC83A37F5B188F&profile=pass
+#EXTINF:-1,TVCine 2 HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1664633372?ticket=8310A17B0212400648146349C40B19CB45C57D81&profile=pass
+#EXTINF:-1,TVCine 3 HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/789055927?ticket=3B3981C5A2BDAFCF3CB13ED060233946C9D7D9E0&profile=pass
+#EXTINF:-1,TVCine 4 HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1246799224?ticket=CF8B103FABAD5174F5590176B5145D4FB3D0A380&profile=pass
+#EXTINF:-1,TVSeries HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/591586069?ticket=5F4737DADD3C43794D0ED9A8232DFA2DED3CC0DD&profile=pass
+#EXTINF:-1,Hollywood
+http://iptvbarbosa.ddns.net:9981/stream/channelid/529483404?ticket=62AD0C27AE070A84764F606ECDCE9A10649BBC70&profile=pass
+#EXTINF:-1,MOV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/546938977?ticket=DB4D5E6DF901E3A1A8B3601E79CA426BFE894994&profile=pass
 #EXTINF:-1,AMC HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/54.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/58.m3u8
-#EXTINF:-1,CINEMUNDO
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/59.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1816.m3u8
-#EXTINF:-1,FOX HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/90.m3u8
-#EXTINF:-1,FOX MOVIES
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/68.m3u8
-#EXTINF:-1,FOX COMEDY
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/67.m3u8
-#EXTINF:-1,FOX LIFE
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/82.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/92.m3u8
-#EXTINF:-1,AXN HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/87.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/83.m3u8
-#EXTINF:-1,AXN WHITE
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/94.m3u8
-#EXTINF:-1,SYFY HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/108.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/100.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/107.m3u8
-#EXTINF:-1,ODISSEIA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/109.m3u8
-#EXTINF:-1,HISTORIA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/112.m3u8
-#EXTINF:-1,BLAZE
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/114.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/117.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1268625066?ticket=3A6CECF120DB6ED968D3617555CBB659E455444F&profile=pass
+#EXTINF:-1,FOX Movies
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1759756790?ticket=8FD54DBF054C35243A878D722FBF69B730D422F9&profile=pass
+#EXTINF:-1,FOX Crime HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/472933481?ticket=E7A888A98509E75F0D600B21826AB709F48FFFED&profile=pass
+#EXTINF:-1,FOX Life HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/282799611?ticket=888E2FE78BD364BE5016305DDCC2FA3324D452DD&profile=pass
+#EXTINF:-1,FOX Comedy
+http://iptvbarbosa.ddns.net:9981/stream/channelid/2145704595?ticket=753FB08EA8E0698C823E67400AAACB5E3FFAE625&profile=pass
+#EXTINF:-1,AXN Black HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/226551404?ticket=9B0D152CCA0E4D4167E690846E5423A85B12926F&profile=pass
+#EXTINF:-1,AXN White HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/44320317?ticket=65BF22358DE3E1EE5315EF36440495701027FB16&profile=pass
+#EXTINF:-1,Sport TV +
+http://iptvbarbosa.ddns.net:9981/stream/channelid/784218233?ticket=07DBBB9D411AE067068EBE88890ADA00F0FE96E0&profile=pass
+#EXTINF:-1,Sport TV 1
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1673716080?ticket=E8B423B92E61138A58371799EDC55FE687C39E52&profile=pass
+#EXTINF:-1,Sport TV 2
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1766287864?ticket=CAA9066B9C96872D9E7C6722361D7742F9491068&profile=pass
+#EXTINF:-1,Sport TV 3
+http://iptvbarbosa.ddns.net:9981/stream/channelid/750869767?ticket=836C103CA2AB2CB032DCA30EBCC2B17F44CA771B&profile=pass
+#EXTINF:-1,Sport TV 4
+http://iptvbarbosa.ddns.net:9981/stream/channelid/2130905811?ticket=6108F376833984A23B43595413D847B1AB9F88ED&profile=pass
+#EXTINF:-1,Sport TV 5
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1601464237?ticket=78ECECF8B806BFB75BBE00131D585DF4A2C0A3FD&profile=pass
+#EXTINF:-1,BTV 1
+http://iptvbarbosa.ddns.net:9981/stream/channelid/568935273?ticket=BAEFD127ACBE98B8361ACEF03377F8A11B0F48BC&profile=pass
+#EXTINF:-1,BTV 1 HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1033115319?ticket=97121DFB0868EF41484A2B7F33BD28B2A85A94A6&profile=pass
+#EXTINF:-1,Sporting TV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/246288730?ticket=E3EECCCA5AFD01CC2C7D080DAF4E75C1B58DDE19&profile=pass
+#EXTINF:-1,Eurosport News
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1336917003?ticket=080ACBA17DC82E46B96B09C25D69B5A4DF7D87EA&profile=pass
+#EXTINF:-1,Eurosport
+http://iptvbarbosa.ddns.net:9981/stream/channelid/520036839?ticket=67EB02959E505DC47F7048294D9229BF4B0AB1C5&profile=pass
+#EXTINF:-1,Eurosport HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1751718936?ticket=9CD89B4C651D8DBD2C1A28F69D62AE953B4BF511&profile=pass
+#EXTINF:-1,Eurosport 2
+http://iptvbarbosa.ddns.net:9981/stream/channelid/498356450?ticket=997F766A949FE1FF8C6E0BD708CF6033767E21E4&profile=pass
+#EXTINF:-1,Motorvision
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1228513930?ticket=6F5222D8F610E553965844ADEFA948F8EF88082D&profile=pass
+#EXTINF:-1,Fuel TV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1275657214?ticket=66AC0D68E940596FC0D185139B1E64E009BD47F8&profile=pass
+#EXTINF:-1,CaĿa e Pesca
+http://iptvbarbosa.ddns.net:9981/stream/channelid/530873160?ticket=597E4D9900ECF61032CA39D34B74F5CF83EC6240&profile=pass
+#EXTINF:-1,Discovery HD Showcase
+http://iptvbarbosa.ddns.net:9981/stream/channelid/939893097?ticket=70C7740D93CDACA9A5F6AC3AE6CD403385DE33DA&profile=pass
+#EXTINF:-1,Discovery Channel
+http://iptvbarbosa.ddns.net:9981/stream/channelid/275048077?ticket=B2D58F756A85399F1ABC5791663E4A7076479CD7&profile=pass
+#EXTINF:-1,Odisseia
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1204811998?ticket=B20D9DCFCA84B787FB88751BF738961EC6BD1EDE&profile=pass
+#EXTINF:-1,Canal de Histðria
+http://iptvbarbosa.ddns.net:9981/stream/channelid/545739411?ticket=D3784C28716C92BBD4BD812AA21185483BF63A3C&profile=pass
+#EXTINF:-1,Nat Geo Wild
+http://iptvbarbosa.ddns.net:9981/stream/channelid/95297498?ticket=036197CFE8D010482F58D9DDC2B55D28ED1401CA&profile=pass
+#EXTINF:-1,A&E
+http://iptvbarbosa.ddns.net:9981/stream/channelid/302248327?ticket=724E67F20C6AD58DF983D870402D43410A68AA8A&profile=pass
 #EXTINF:-1,TLC
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/71.m3u8
-#EXTINF:-1,MTV PORTUGAL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/72.m3u8
-#EXTINF:-1,CBS REALITY
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/73.m3u8
-#EXTINF:-1,RTP AFRICA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/118.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/119.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/120.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/56.m3u8
-#EXTINF:-1,EUROCHANNEL
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/129.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1930370255?ticket=0F8C492CD748CEDA2080211978F4FEB017259381&profile=pass
+#EXTINF:-1,E! Entertainment
+http://iptvbarbosa.ddns.net:9981/stream/channelid/375200161?ticket=5CB36316C64EC5C6023FD23B4E57A75D874FEA95&profile=pass
+#EXTINF:-1,24 Kitchen HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/8146750?ticket=3314C7EA2C0B4BC43DC839140C4A5CDE6F09A570&profile=pass
+#EXTINF:-1,Travel Channel HD
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1344050167?ticket=19B083D45BE402180B6B1BE6447EE329F0642FFE&profile=pass
+#EXTINF:-1,FTV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/161071356?ticket=E7884B149F7B9F380239D4A0878AE327DA682625&profile=pass
+#EXTINF:-1,MTV Portugal
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1522739896?ticket=ACC788E0A938A54C1AA7CFE699A12FAC3665B981&profile=pass
+#EXTINF:-1,MCM Pop
+http://iptvbarbosa.ddns.net:9981/stream/channelid/639089504?ticket=3BD0CF81150F41EFC5F477DEAB110748EEAB529A&profile=pass
 #EXTINF:-1,VH1
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/157.m3u8
-#EXTINF:-1,MCM POP
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/159.m3u8
-#EXTINF:-1,MCM TOP
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/160.m3u8
-#EXTINF:-1,TRACE URBAN
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/213.m3u8
-#EXTINF:-1,MEZZO
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/220.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/161.m3u8
-#EXTINF:-1,TV RECORD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/171.m3u8
-#EXTINF:-1,GLOBO NOW
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/172.m3u8
-#EXTINF:-1,RECORD NEWS
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/176.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/196.m3u8
-#EXTINF:-1,MY CUSINE
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/200.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5107.m3u8
-#EXTINF:-1,EURONEWS
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/203.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/500030453?ticket=CBA09C8E391C5490BF84FED3B6CA7B2202DAD4A6&profile=pass
+#EXTINF:-1,VH1 Classic
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1188867901?ticket=55CC9E6D074776F49494E30802BB6E76D4AE2450&profile=pass
+#EXTINF:-1,Mezzo
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1763184095?ticket=1357462816E2ED541F464EE569F2D89BC85EEE69&profile=pass
+#EXTINF:-1,Cancao Nova
+http://iptvbarbosa.ddns.net:9981/stream/channelid/265875650?ticket=8DFFCB7C16BFEF5F14992746E650E02BCB91EDC2&profile=pass
+#EXTINF:-1,TV Galicia
+http://iptvbarbosa.ddns.net:9981/stream/channelid/406097316?ticket=59363D4E1EAB92AD2570EC2FEF314873BEA50849&profile=pass
+#EXTINF:-1,TVE Internacional
+http://iptvbarbosa.ddns.net:9981/stream/channelid/300659533?ticket=4462B1A1BEA64229CAAC2D19CFB38C65D87C1C09&profile=pass
+#EXTINF:-1,TVE 24h
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1441438169?ticket=D06CEF7F405A407677B83650170D77863EDB9940&profile=pass
+#EXTINF:-1,BBC Entertainment
+http://iptvbarbosa.ddns.net:9981/stream/channelid/316957800?ticket=3FEA5B6DF23BE1FB9978244C0BA4FA4F6E056AFE&profile=pass
+#EXTINF:-1,EuroNews
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1378394250?ticket=32A7851C4683990E459330B978F8792A1EF40015&profile=pass
 #EXTINF:-1,CNN
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/204.m3u8
-#EXTINF:-1,TVE 24
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/206.m3u8
-#EXTINF:-1,SKY NEWS
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/208.m3u8
-#EXTINF:-1,TPA
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/241.m3u8
-#EXTINF:-1,ZAP Viva HD
-http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5350.m3u8
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1292306665?ticket=854A0A2F610341A151C04A55FE9DF79DB711BA12&profile=pass
+#EXTINF:-1,SKY News
+http://iptvbarbosa.ddns.net:9981/stream/channelid/413753722?ticket=3E4D4844BD8FA1F4C976E073F4C4F8C82A20768C&profile=pass
+#EXTINF:-1,BBC World News
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1946511652?ticket=65D2838D23BDD800315B503D94A46C4BC028903A&profile=pass
+#EXTINF:-1,France 24
+http://iptvbarbosa.ddns.net:9981/stream/channelid/65830419?ticket=5AD35626B59C45B5ADF844BE14AA862AA51A61D2&profile=pass
+#EXTINF:-1,Bloomberg
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1571475181?ticket=751E951C6A6284A5F3A28A0546FDFE38FFBF5B7F&profile=pass
+#EXTINF:-1,CNBC
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1252911984?ticket=3AF50DDF80A96F0AF0A0E40890504995CF600A2D&profile=pass
+#EXTINF:-1,Hot
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1003966568?ticket=11FCE277AC6AA3D168DD6F66125C3D7201C3E399&profile=pass
+#EXTINF:-1,Canal NOS
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1347487723?ticket=F53F944372F500794E50837C274F7D792DBDF246&profile=pass
+#EXTINF:-1,Canal de teste
+http://iptvbarbosa.ddns.net:9981/stream/channelid/275657728?ticket=61402214CE6FABDA6E3A793B9CF86A800B675AD6&profile=pass
+#EXTINF:-1,Canal de Teste
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1130437150?ticket=E00117D760C2CCD9C56BE05A22C57546ED9730C8&profile=pass
+#EXTINF:-1,DSMCC - IPPV
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1110965400?ticket=2A2CCB91294238E8F469CB1CB23C90CD951414C8&profile=pass
+#EXTINF:-1,DSMCC - RADIOS
+http://iptvbarbosa.ddns.net:9981/stream/channelid/2748473?ticket=3CAFD356C9D51195D6093D264940CC47AD79FF16&profile=pass
+#EXTINF:-1,Antena 1
+http://iptvbarbosa.ddns.net:9981/stream/channelid/532719038?ticket=14D1B679304A65565CE2CD0F44E77559AA6D2056&profile=pass
+#EXTINF:-1,Antena 2
+http://iptvbarbosa.ddns.net:9981/stream/channelid/757457155?ticket=552EC21E5A3183AA699924F4CAFF2D8DC17596C4&profile=pass
+#EXTINF:-1,Antena 3
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1023877155?ticket=E59009458FF75BDC06477875B69C7BD656312D17&profile=pass
+#EXTINF:-1,Cidade FM
+http://iptvbarbosa.ddns.net:9981/stream/channelid/631955585?ticket=93D7375CCD65D826F7B5CA8CB531361E315CC6F4&profile=pass
+#EXTINF:-1,M80
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1696375799?ticket=E19D2DC9268C09B74A941530F6284AFF4A8DE6F6&profile=pass
+#EXTINF:-1,Marginal
+http://iptvbarbosa.ddns.net:9981/stream/channelid/585031971?ticket=8AA6DFE53F870E10127B4901CC9FB96BD381175C&profile=pass
+#EXTINF:-1,Mega Hits
+http://iptvbarbosa.ddns.net:9981/stream/channelid/375262741?ticket=C9504807E279D3F0CD31C682E0E439FBEDEF6C6D&profile=pass
+#EXTINF:-1,Oxigenio
+http://iptvbarbosa.ddns.net:9981/stream/channelid/2104454293?ticket=F6306FF650CADD11D9D7FFC298EDC542F111DA5B&profile=pass
+#EXTINF:-1,Radar
+http://iptvbarbosa.ddns.net:9981/stream/channelid/327905890?ticket=8AD454999015CD2B83EAC9412C913B5C47F670C7&profile=pass
+#EXTINF:-1,RDP rica
+http://iptvbarbosa.ddns.net:9981/stream/channelid/210856780?ticket=F8984AA5C90C4217801C77C46FA6C6725C6137B8&profile=pass
+#EXTINF:-1,RFM
+http://iptvbarbosa.ddns.net:9981/stream/channelid/2099003850?ticket=5D6D2E1640B89D3DAC000C836C4C5504F4B2DF14&profile=pass
+#EXTINF:-1,RÆdio Amalia
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1977284940?ticket=F785C7D87C25DC1A1152A46F3866A03F7B098078&profile=pass
+#EXTINF:-1,RÆdio Comercial
+http://iptvbarbosa.ddns.net:9981/stream/channelid/669344926?ticket=83A9958D4982566DAB65B27676DCB131B2A16691&profile=pass
+#EXTINF:-1,RÆdio Lusitania
+http://iptvbarbosa.ddns.net:9981/stream/channelid/772446022?ticket=F5F61A377312AE5F779EC5B545DACC3635CAEB06&profile=pass
+#EXTINF:-1,RÆdio Nostalgia
+http://iptvbarbosa.ddns.net:9981/stream/channelid/451860156?ticket=8407B81808E93668E8131A4971C8A2D30F20F71F&profile=pass
+#EXTINF:-1,RÆdio Regional
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1239626061?ticket=2645D378E90428BA402207380CC6AC53FE818AD6&profile=pass
+#EXTINF:-1,RÆdio RenascenĿa
+http://iptvbarbosa.ddns.net:9981/stream/channelid/649314721?ticket=F52D1B8507D18C4D35216E6E02D7A0B83E425FE3&profile=pass
+#EXTINF:-1,Smooth FM
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1571018914?ticket=A7BF5884D4E17D988AB987AF48F81EFCB4047E84&profile=pass
+#EXTINF:-1,TSF
+http://iptvbarbosa.ddns.net:9981/stream/channelid/931961922?ticket=5F2B702DD858F434894E2921E2CB5792BF626F5B&profile=pass
+#EXTINF:-1,SuperFM
+http://iptvbarbosa.ddns.net:9981/stream/channelid/1795064549?ticket=48F2D693F50C6B6B4A12C8091639AA8903AB73EE&profile=pass
