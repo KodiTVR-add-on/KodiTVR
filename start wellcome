@@ -1,0 +1,43 @@
+<channels>
+<channel>
+<name>[COLOR yellow][B]*TV ONLINE PORTUGAL/VILA REAL*[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<genre>I FIMES</genre>
+<info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
+<fanart></fanart>
+</channel>
+</channels>
+  
+<channels>
+<channel>
+<name>Torrents movies</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/Blackarrowtorrent/master/torrents%203</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Western Movies</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/Blackarrowtorrent/master/western%202</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0uaRhlUCe0viDsF4RN5V3MwQmI.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Films</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/Blackarrowtorrent/master/Film1</externallink>
+<fanart>https://ia802802.us.archive.org/13/items/internacionais_202001/s%C3%A9ries.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<! ícones recomendaveis 256 x 256> 
+<! fanart 1024 x 720>
+
