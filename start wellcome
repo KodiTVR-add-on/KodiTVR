@@ -10,7 +10,7 @@
   
 <channels>
 <channel>
-<name>KodiTVR Portugal</name>
+<name>KodiTVR-Portugal</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20m3u</externallink>
 <fanart></fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Desporto</name>
+<name>KodiTVR-Desporto</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20sport%20m3u</externallink>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes/lista 1</name>
+<name>KodiTVR-Filmes/lista 1</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%205%20com%20v%C3%A1rios%20links</externallink>
 <fanart></fanart>
@@ -40,7 +40,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes/lista 2</name>
+<name>KodiTVR-Filmes/lista 2</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%202</externallink>
 <fanart></fanart>
@@ -50,7 +50,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes/lista 3</name>
+<name>KodiTVR-Filmes/lista 3</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%201</externallink>
 <fanart></fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes/lista 4</name>
+<name>KodiTVR-Filmes/lista 4</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%203</externallink>
 <fanart></fanart>
@@ -70,7 +70,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes/lista 5</name>
+<name>KodiTVR-Filmes/lista 5</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%20faroeste%204</externallink>
 <fanart></fanart>
@@ -80,7 +80,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Filmes m3u</name>
+<name>KodiTVR-Filmes m3u</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20m3u</externallink>
 <fanart></fanart>
@@ -90,7 +90,7 @@
 
 <channels>
 <channel>
-<name>KodiTVR Séries/lista 1</name>
+<name>KodiTVR-Séries/lista 1</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20s%C3%A9ries</externallink>
 <fanart></fanart>
