@@ -68,6 +68,26 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>KodiTVR Filmes/lista 5</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>KodiTVR Séries/lista 1</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
 <! ícones recomendaveis 256 x 256> 
 <! fanart 1024 x 720>
 
