@@ -80,6 +80,16 @@
 
 <channels>
 <channel>
+<name>KodiTVR Filmes m3u</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>KodiTVR Séries/lista 1</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
