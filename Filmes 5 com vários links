@@ -3,11 +3,8 @@ MODELO COM VÁRIOS LINKS
 <item>
 <title>FILMES 2018/2019</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CMwXMeD4dWkVC0vAfvedpm3QYp05megw/view$$lsname=[COLOR lime]FULLHD[/COLOR] - ANNA 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VmWt_0q8SlAGn9MYXxgIdRGFsGZzIjEZ/view$$lsname=[COLOR lime]FULLHD[/COLOR] - A PRAYER BEFORE DAWN 2017</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cjOfU6vOd_9HgJkE8PaPw5RxaDVkx7sm/view$$lsname=[COLOR lime]FULLHD[/COLOR] - REVENGE 2017</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BI0fBUTvo1AjIOwL42fQRPO0iQhJNP17/view$$lsname=[COLOR lime]FULLHD[/COLOR] - Only Mine 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DsiQeMPSG4fJA8U6sTpXJac9IkKXci6Q/view$$lsname=[COLOR lime]FULLHD[/COLOR] - AMERICAN HISTORY X 1998</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iZ57ZxljxWyUWh7cl69KMqiCZMlX51eY/view$$lsname=[COLOR lime]FULLHD[/COLOR] - The Informer 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info>Década de 1990. Anna Poliatova é uma requisitada modelo internacional que tem um segredo bem guardado: sob a sua beleza e aparente inocência esconde-se uma assassina profissional que actua sob as ordens da KGB. Vítima de violência doméstica durante anos, aceitou as regras da organização que, em troca, lhe salvou a vida. Contudo, o que hoje mais deseja é libertar-se daquele fardo e começar uma nova vida num lugar onde finalmente possa esquecer o passado. É então que é contactada por membros da CIA que lhe fazem uma proposta irrecusável.</info>
 </item>
 
@@ -25,8 +22,55 @@ MODELO UNIVERSAL DE APENAS UM LINK
 
 <item>
 <title>Only Mine 2019</title>
-<link>https://archive.org/details/by-ADDONBARROSOnly.Mine.2019.1080p.WEB.X264-INFLATE?autoplay=1&playset=1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BI0fBUTvo1AjIOwL42fQRPO0iQhJNP17/view$$lsname=[COLOR lime]FULLHD[/COLOR] - Only Mine 2019</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EbeDRaqYTpkw35ntQGlskuak1c.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kl3Z78ybjmv5uCUOiiux2kSYxUZ.jpg</fanart>
 <info>Atormentada e deixada para morrer por um amante desprezado, uma mulher encontra forças para recuperar e retaliar seu agressor.</info>
 </item>
+
+<item>
+<title>The Informer 2019</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iZ57ZxljxWyUWh7cl69KMqiCZMlX51eY/view$$lsname=[COLOR lime]FULLHD[/COLOR] - The Informer 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>AMERICAN HISTORY X 1998</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DsiQeMPSG4fJA8U6sTpXJac9IkKXci6Q/view$$lsname=[COLOR lime]FULLHD[/COLOR] - AMERICAN HISTORY X 1998</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>REVENGE 2017</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cjOfU6vOd_9HgJkE8PaPw5RxaDVkx7sm/view$$lsname=[COLOR lime]FULLHD[/COLOR] - REVENGE 2017</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>A PRAYER BEFORE DAWN 2017</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VmWt_0q8SlAGn9MYXxgIdRGFsGZzIjEZ/view$$lsname=[COLOR lime]FULLHD[/COLOR] - A PRAYER BEFORE DAWN 2017</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= $$lsname=[COLOR lime]FULLHD[/COLOR] - </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
+
+
+
