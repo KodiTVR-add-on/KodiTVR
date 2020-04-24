@@ -22,7 +22,7 @@
 <channel>
 <name>KodiTVR Desporto</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20sport.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -32,7 +32,7 @@
 <channel>
 <name>KodiTVR Filmes/lista 1</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%205%20com%20v%C3%A1rios%20links</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -42,7 +42,7 @@
 <channel>
 <name>KodiTVR Filmes/lista 2</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%202</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -52,7 +52,7 @@
 <channel>
 <name>KodiTVR Filmes/lista 3</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%201</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -62,7 +62,7 @@
 <channel>
 <name>KodiTVR Filmes/lista 4</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%203</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
