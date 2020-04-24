@@ -1,29 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Sport TV +
-http://iptvbarbosa.ddns.net:9981/stream/channelid/784218233?ticket=07DBBB9D411AE067068EBE88890ADA00F0FE96E0&profile=pass
-#EXTINF:-1,Sport TV 1
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1673716080?ticket=E8B423B92E61138A58371799EDC55FE687C39E52&profile=pass
-#EXTINF:-1,Sport TV 2
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1766287864?ticket=CAA9066B9C96872D9E7C6722361D7742F9491068&profile=pass
-#EXTINF:-1,Sport TV 3
-http://iptvbarbosa.ddns.net:9981/stream/channelid/750869767?ticket=836C103CA2AB2CB032DCA30EBCC2B17F44CA771B&profile=pass
-#EXTINF:-1,Sport TV 4
-http://iptvbarbosa.ddns.net:9981/stream/channelid/2130905811?ticket=6108F376833984A23B43595413D847B1AB9F88ED&profile=pass
-#EXTINF:-1,Sport TV 5
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1601464237?ticket=78ECECF8B806BFB75BBE00131D585DF4A2C0A3FD&profile=pass
-#EXTINF:-1,BTV 1
-http://iptvbarbosa.ddns.net:9981/stream/channelid/568935273?ticket=BAEFD127ACBE98B8361ACEF03377F8A11B0F48BC&profile=pass
-#EXTINF:-1,BTV 1 HD
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1033115319?ticket=97121DFB0868EF41484A2B7F33BD28B2A85A94A6&profile=pass
-#EXTINF:-1,Sporting TV
-http://iptvbarbosa.ddns.net:9981/stream/channelid/246288730?ticket=E3EECCCA5AFD01CC2C7D080DAF4E75C1B58DDE19&profile=pass
-#EXTINF:-1,Eurosport News
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1336917003?ticket=080ACBA17DC82E46B96B09C25D69B5A4DF7D87EA&profile=pass
-#EXTINF:-1,Eurosport
-http://iptvbarbosa.ddns.net:9981/stream/channelid/520036839?ticket=67EB02959E505DC47F7048294D9229BF4B0AB1C5&profile=pass
-#EXTINF:-1,Eurosport HD
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1751718936?ticket=9CD89B4C651D8DBD2C1A28F69D62AE953B4BF511&profile=pass
-#EXTINF:-1,Eurosport 2
-http://iptvbarbosa.ddns.net:9981/stream/channelid/498356450?ticket=997F766A949FE1FF8C6E0BD708CF6033767E21E4&profile=pass
-#EXTINF:-1,Motorvision
-http://iptvbarbosa.ddns.net:9981/stream/channelid/1228513930?ticket=6F5222D8F610E553965844ADEFA948F8EF88082D&profile=pass
+#EXTINF: -1, A BOLA TV HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/17.m3u8
+#EXTINF: -1, SPORT TV + HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/38.m3u8
+#EXTINF: -1, SPORT TV 1
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/20.m3u8
+#EXTINF: -1, TV SPORT 1 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/25.m3u8
+#EXTINF: -1, SPORT TV 2
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/21.m3u8
+#EXTINF: -1, SPORT TV 2 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/26.m3u8
+#EXTINF: -1, SPORT TV 3
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/22.m3u8
+#EXTINF: -1, SPORT TV 3 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/27.m3u8
+#EXTINF: -1, SPORT TV 4
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/23.m3u8
+#EXTINF: -1, SPORT TV 5
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/24.m3u8
+#EXTINF: -1, ONZE SPORTS 1 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/231.m3u8
+#EXTINF: -1, ONZE SPORTS 2 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/232.m3u8
+#EXTINF: -1, ONZE SPORTS 3
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/233.m3u8
+#EXTINF: -1, ONZE SPORTS 4
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/234.m3u8
+#EXTINF: -1, ONZE SPORTS 5
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/235.m3u8
+#EXTINF: -1, ONZE SPORTS 6
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/236.m3u8
+#EXTINF: -1, BTV 1 HD
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1823.m3u8
+#EXTINF: -1, PFC
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/724.m3u8
+#EXTINF: -1, TV SPORTING
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/34.m3u8
+#EXTINF: -1, KOMBAT SPORT
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/32.m3u8
+#EXTINF: -1, NBA TV
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/725.m3u8
+#EXTINF: -1, EUROSPORT 1
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/130.m3u8
+#EXTINF: -1, EUROSPORT 2
+http://teuportal.dyndns.org:25461/live/aa123456/aa123456/131.m3u8
