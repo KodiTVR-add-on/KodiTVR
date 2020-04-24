@@ -1,217 +1,217 @@
 #EXTM3U
-#EXTINF: -1, RTP 1 HD
+EXTINF:-1,RTP 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5180.m3u8
-#EXTINF: -1, RTP 1
+#EXTINF:-1,RTP 1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1.m3u8
-#EXTINF: -1, RTP 2 HD
+#EXTINF:-1,RTP 2 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5181.m3u8
-#EXTINF: -1, RTP 2
+#EXTINF:-1,RTP 2
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/2.m3u8
-#EXTINF: -1, SIC HD
+#EXTINF:-1,SIC HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5182.m3u8
-#EXTINF: -1, SIC
+#EXTINF:-1,SIC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/3.m3u8
-#EXTINF: -1, TVI HD
+#EXTINF:-1,TVI HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5183.m3u8
-#EXTINF: -1, TVI
+#EXTINF:-1,TVI
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/4.m3u8
-#EXTINF: -1, TVI 24
+#EXTINF:-1,TVI 24
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/7.m3u8
-#EXTINF: -1, SIC NOTICIAS
+#EXTINF:-1,SIC NOTICIAS
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5.m3u8
-#EXTINF: -1, CMTV
+#EXTINF:-1,CMTV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/11.m3u8
-#EXTINF: -1, RTP 3
+#EXTINF:-1,RTP 3
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/8.m3u8
-#EXTINF: -1, SIC MULHER
+#EXTINF:-1,SIC MULHER
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/6.m3u8
-#EXTINF: -1, SIC RADICAL
+#EXTINF:-1,SIC RADICAL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/9.m3u8
-#EXTINF: -1, CANAL 11 HD
+#EXTINF:-1,CANAL 11 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/699.m3u8
-#EXTINF: -1, GLOBO
+#EXTINF:-1,GLOBO
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/10.m3u8
-#EXTINF: -1, CANAL DO PORTO
+#EXTINF:-1,PORTO CANAL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/12.m3u8
-#EXTINF: -1, CANAL Q
+#EXTINF:-1,CANAL Q
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/14.m3u8
-#EXTINF: -1, REALIDADE TVI
+#EXTINF:-1,TVI REALITY
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/15.m3u8
-#EXTINF: -1, TVI FICCAO
+#EXTINF:-1,TVI FICCAO
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/16.m3u8
-#EXTINF: -1, RTP ACORES
+#EXTINF:-1,RTP ACORES
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/18.m3u8
-#EXTINF: -1, RTP MADEIRA
+#EXTINF:-1,RTP MADEIRA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/19.m3u8
-#EXTINF: -1, A BOLA TV HD
+#EXTINF:-1,A BOLA TV HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/17.m3u8
-#EXTINF: -1, SPORT TV + HD
+#EXTINF:-1,SPORT TV+ HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/38.m3u8
-#EXTINF: -1, SPORT TV 1
+#EXTINF:-1,SPORT TV 1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/20.m3u8
-#EXTINF: -1, TV SPORT 1 HD
+#EXTINF:-1,SPORT TV 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/25.m3u8
-#EXTINF: -1, SPORT TV 2
+#EXTINF:-1,SPORT TV 2
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/21.m3u8
-#EXTINF: -1, SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/26.m3u8
-#EXTINF: -1, SPORT TV 3
+#EXTINF:-1,SPORT TV 3
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/22.m3u8
-#EXTINF: -1, SPORT TV 3 HD
+#EXTINF:-1,SPORT TV 3 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/27.m3u8
-#EXTINF: -1, SPORT TV 4
+#EXTINF:-1,SPORT TV 4
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/23.m3u8
-#EXTINF: -1, SPORT TV 5
+#EXTINF:-1,SPORT TV 5
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/24.m3u8
-#EXTINF: -1, ONZE SPORTS 1 HD
+#EXTINF:-1,ELEVEN SPORTS 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/231.m3u8
-#EXTINF: -1, ONZE SPORTS 2 HD
+#EXTINF:-1,ELEVEN SPORTS 2 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/232.m3u8
-#EXTINF: -1, ONZE SPORTS 3
+#EXTINF:-1,ELEVEN SPORTS 3
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/233.m3u8
-#EXTINF: -1, ONZE SPORTS 4
+#EXTINF:-1,ELEVEN SPORTS 4
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/234.m3u8
-#EXTINF: -1, ONZE SPORTS 5
+#EXTINF:-1,ELEVEN SPORTS 5
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/235.m3u8
-#EXTINF: -1, ONZE SPORTS 6
+#EXTINF:-1,ELEVEN SPORTS 6
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/236.m3u8
-#EXTINF: -1, BTV 1 HD
+#EXTINF:-1,BTV 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1823.m3u8
-#EXTINF: -1, PFC
+#EXTINF:-1,PFC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/724.m3u8
-#EXTINF: -1, TV SPORTING
+#EXTINF:-1,SPORTING TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/34.m3u8
-#EXTINF: -1, KOMBAT SPORT
+#EXTINF:-1,KOMBAT SPORT
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/32.m3u8
-#EXTINF: -1, NBA TV
+#EXTINF:-1,NBA TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/725.m3u8
-#EXTINF: -1, EUROSPORT 1
+#EXTINF:-1,EUROSPORT 1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/130.m3u8
-#EXTINF: -1, EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/131.m3u8
-#EXTINF: -1, TV TOROS
+#EXTINF:-1,TOROS TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/141.m3u8
-#EXTINF: -1, CACAVISION
+#EXTINF:-1,CACAVISION
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/143.m3u8
-#EXTINF: -1, CACA E PESCA
+#EXTINF:-1,CACA E PESCA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/142.m3u8
-#EXTINF: -1, TV COMBUSTÍVEL
+#EXTINF:-1,FUEL TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/133.m3u8
-#EXTINF: -1, CANAL DISNEY
+#EXTINF:-1,DISNEY CHANNEL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/40.m3u8
-#EXTINF: -1, NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/41.m3u8
-#EXTINF: -1, PANDA DO CANAL
+#EXTINF:-1,CANAL PANDA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/42.m3u8
-#EXTINF: -1, BIGGS
+#EXTINF:-1,BIGGS
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/43.m3u8
-#EXTINF: -1, DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/44.m3u8
-#EXTINF: -1, SIC K HD
+#EXTINF:-1,SIC K HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/45.m3u8
-#EXTINF: -1, TV DE BEBÊ
+#EXTINF:-1,BABY TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/46.m3u8
-#EXTINF: -1, REDE DE DESENHOS ANIMADOS
+#EXTINF:-1,CARTOON NETWORK
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/47.m3u8
-#EXTINF: -1, JIM JAM
+#EXTINF:-1,JIM JAM
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/48.m3u8
-#EXTINF: -1, CINE TOP DE TV
+#EXTINF:-1,TV CINE TOP
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/50.m3u8
-#EXTINF: -1, EDIÇÃO CINE TV
+#EXTINF:-1,TV CINE EDITION
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/51.m3u8
-#EXTINF: -1, EMOÇÃO DE CINE TV
+#EXTINF:-1,TV CINE EMOTION
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/52.m3u8
-#EXTINF: -1, AÇÃO NA CINE TV
+#EXTINF:-1,TV CINE ACTION
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/53.m3u8
-#EXTINF: -1, TVCine TOP HD
+#EXTINF:-1,TVCine TOP HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/81.m3u8
-#EXTINF: -1, AMC HD
+#EXTINF:-1,AMC HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/54.m3u8
-#EXTINF: -1, HOLLYWOOD HD
+#EXTINF:-1,HOLLYWOOD HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/58.m3u8
-#EXTINF: -1, CINEMUNDO
+#EXTINF:-1,CINEMUNDO
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/59.m3u8
-#EXTINF: -1, NOS STUDIOS HD
+#EXTINF:-1,NOS STUDIOS HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1816.m3u8
-#EXTINF: -1, FOX HD
+#EXTINF:-1,FOX HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/90.m3u8
-#EXTINF: -1, FOX FILMES
+#EXTINF:-1,FOX MOVIES
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/68.m3u8
-#EXTINF: -1, FOX COMEDY
+#EXTINF:-1,FOX COMEDY
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/67.m3u8
-#EXTINF: -1, RAPOSA VIDA
+#EXTINF:-1,FOX LIFE
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/82.m3u8
-#EXTINF: -1, FOX CRIME HD
+#EXTINF:-1,FOX CRIME HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/92.m3u8
-#EXTINF: -1, AXN HD
+#EXTINF:-1,AXN HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/87.m3u8
-#EXTINF: -1, AXN PRETO HD
+#EXTINF:-1,AXN BLACK HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/83.m3u8
-#EXTINF: -1, AXN WHITE
+#EXTINF:-1,AXN WHITE
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/94.m3u8
-#EXTINF: -1, SYFY HD
+#EXTINF:-1,SYFY HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/108.m3u8
-#EXTINF: -1, DESCOBERTA HD
+#EXTINF:-1,DISCOVERY HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/100.m3u8
-#EXTINF: -1, NAT GEO SELVAGEM
+#EXTINF:-1,NAT GEO WILD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/107.m3u8
-#EXTINF: -1, ODISSEIA
+#EXTINF:-1,ODISSEIA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/109.m3u8
-#EXTINF: -1, HISTÓRIA
+#EXTINF:-1,HISTORIA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/112.m3u8
-#EXTINF: -1, BLAZE
+#EXTINF:-1,BLAZE
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/114.m3u8
-#EXTINF: -1, GEOGRÁFICO NACIONAL
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/117.m3u8
-#EXTINF: -1, TLC
+#EXTINF:-1,TLC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/71.m3u8
-#EXTINF: -1, MTV PORTUGAL
+#EXTINF:-1,MTV PORTUGAL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/72.m3u8
-#EXTINF: -1, CBS REALIDADE
+#EXTINF:-1,CBS REALITY
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/73.m3u8
-#EXTINF: -1, RTP ÁFRICA
+#EXTINF:-1,RTP AFRICA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/118.m3u8
-#EXTINF: -1, MEMÓRIAS RTP
+#EXTINF:-1,RTP MEMORIA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/119.m3u8
-#EXTINF: -1, CANAL DE VIAGENS
+#EXTINF:-1,TRAVEL CHANNEL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/120.m3u8
-#EXTINF: -1, E! ENTRETENIMENTO
+#EXTINF:-1,E! ENTERTAINMENT
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/56.m3u8
-#EXTINF: -1, EUROCHANNEL
+#EXTINF:-1,EUROCHANNEL
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/129.m3u8
-#EXTINF: -1, VH1
+#EXTINF:-1,VH1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/157.m3u8
-#EXTINF: -1, POP MCM
+#EXTINF:-1,MCM POP
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/159.m3u8
-#EXTINF: -1, MCM SUPERIOR
+#EXTINF:-1,MCM TOP
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/160.m3u8
-#EXTINF: -1, TRACE URBAN
+#EXTINF:-1,TRACE URBAN
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/213.m3u8
-#EXTINF: -1, MEZZO
+#EXTINF:-1,MEZZO
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/220.m3u8
-#EXTINF: -1, MÚSICA AFRO
+#EXTINF:-1,AFRO MUSIC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/161.m3u8
-#EXTINF: -1, GRAVAÇÃO DE TV
+#EXTINF:-1,TV RECORD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/171.m3u8
-#EXTINF: -1, GLOBO AGORA
+#EXTINF:-1,GLOBO NOW
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/172.m3u8
-#EXTINF: -1, RECORDE DE NOTÍCIAS
+#EXTINF:-1,RECORD NEWS
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/176.m3u8
-#EXTINF: -1, ENTRETENIMENTO DA BBC
+#EXTINF:-1,BBC ENTERTAINMENT
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/196.m3u8
-#EXTINF: -1, MINHA COZINHA
+#EXTINF:-1,MY CUSINE
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/200.m3u8
-#EXTINF: -1, REDE ALIMENTAR
+#EXTINF:-1,FOOD NETWORK
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5107.m3u8
-#EXTINF: -1, EURONEWS
+#EXTINF:-1,EURONEWS
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/203.m3u8
-#EXTINF: -1, CNN
+#EXTINF:-1,CNN
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/204.m3u8
-#EXTINF: -1, TVE 24
+#EXTINF:-1,TVE 24
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/206.m3u8
-#EXTINF: -1, SKY NEWS
+#EXTINF:-1,SKY NEWS
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/208.m3u8
-#EXTINF: -1, TPA
+#EXTINF:-1,TPA
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/241.m3u8
-#EXTINF: -1, ZAP Viva HD
+#EXTINF:-1,ZAP Viva HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/5350.m3u8
