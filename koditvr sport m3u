@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF: -1, A BOLA TV HD
+#EXTINF:-1,A BOLA TV HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/17.m3u8
-#EXTINF: -1, SPORT TV + HD
+#EXTINF:-1,SPORT TV+ HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/38.m3u8
-#EXTINF: -1, SPORT TV 1
+#EXTINF:-1,SPORT TV 1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/20.m3u8
-#EXTINF: -1, TV SPORT 1 HD
+#EXTINF:-1,SPORT TV 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/25.m3u8
-#EXTINF: -1, SPORT TV 2
+#EXTINF:-1,SPORT TV 2
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/21.m3u8
-#EXTINF: -1, SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/26.m3u8
-#EXTINF: -1, SPORT TV 3
+#EXTINF:-1,SPORT TV 3
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/22.m3u8
-#EXTINF: -1, SPORT TV 3 HD
+#EXTINF:-1,SPORT TV 3 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/27.m3u8
-#EXTINF: -1, SPORT TV 4
+#EXTINF:-1,SPORT TV 4
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/23.m3u8
-#EXTINF: -1, SPORT TV 5
+#EXTINF:-1,SPORT TV 5
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/24.m3u8
-#EXTINF: -1, ONZE SPORTS 1 HD
+#EXTINF:-1,ELEVEN SPORTS 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/231.m3u8
-#EXTINF: -1, ONZE SPORTS 2 HD
+#EXTINF:-1,ELEVEN SPORTS 2 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/232.m3u8
-#EXTINF: -1, ONZE SPORTS 3
+#EXTINF:-1,ELEVEN SPORTS 3
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/233.m3u8
-#EXTINF: -1, ONZE SPORTS 4
+#EXTINF:-1,ELEVEN SPORTS 4
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/234.m3u8
-#EXTINF: -1, ONZE SPORTS 5
+#EXTINF:-1,ELEVEN SPORTS 5
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/235.m3u8
-#EXTINF: -1, ONZE SPORTS 6
+#EXTINF:-1,ELEVEN SPORTS 6
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/236.m3u8
-#EXTINF: -1, BTV 1 HD
+#EXTINF:-1,BTV 1 HD
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/1823.m3u8
-#EXTINF: -1, PFC
+#EXTINF:-1,PFC
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/724.m3u8
-#EXTINF: -1, TV SPORTING
+#EXTINF:-1,SPORTING TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/34.m3u8
-#EXTINF: -1, KOMBAT SPORT
+#EXTINF:-1,KOMBAT SPORT
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/32.m3u8
-#EXTINF: -1, NBA TV
+#EXTINF:-1,NBA TV
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/725.m3u8
-#EXTINF: -1, EUROSPORT 1
+#EXTINF:-1,EUROSPORT 1
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/130.m3u8
-#EXTINF: -1, EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://teuportal.dyndns.org:25461/live/aa123456/aa123456/131.m3u8
