@@ -10,6 +10,26 @@
   
 <channels>
 <channel>
+<name>[COLOR green][B]KodiTVR-[/COLOR][/B][COLOR red][B]A Portuguesa (hino nacional português)[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 1[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvrlist.m3u</externallink>
@@ -83,16 +103,6 @@
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 5[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%20faroeste%204</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
