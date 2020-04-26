@@ -90,9 +90,9 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]KodiTVR-Filmes 2018[/COLOR][/B]</name>
+<name>[COLOR yellow][B]KodiTVR-Canais[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%202018</externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
