@@ -10,9 +10,19 @@
   
 <channels>
 <channel>
-<name>[COLOR yellow][B]KodiTVR-Portugal[/COLOR][/B]</name>
+<name>[COLOR yellow][B]KodiTVR-Portugal 1[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvrlist.m3u</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]KodiTVR-Portugal 2[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
