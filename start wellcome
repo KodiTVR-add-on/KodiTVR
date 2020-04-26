@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow][B]*TV ONLINE PORTUGAL / VILA REAL*[/COLOR][/B]</name>
+<name>[COLOR yellow][B]_TV_PORTUGAL / VILA REAL_ONLINE_[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <genre>I FIMES</genre>
 <info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
@@ -10,7 +10,7 @@
   
 <channels>
 <channel>
-<name>[COLOR green][B]KodiTVR-[/COLOR][/B][COLOR red][B]A Portuguesa (hino nacional português)[/COLOR][/B]</name>
+<name>[COLOR green][B]Hino nacional português-[/COLOR][/B][COLOR red][B](A Portuguesa)[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
 <fanart></fanart>
