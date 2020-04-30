@@ -1,19 +1,19 @@
 <channels>
 <channel>
 <name>[COLOR yellow][B]..::TV_PORTUGAL-VILA REAL_ONLINE::..[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/x1umP0j</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
 <genre>I FIMES</genre>
 <info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
-<fanart>https://imgur.com/w6Y9mR3</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
 </channel>
 </channels>
   
 <channels>
 <channel>
 <name>[COLOR green][B]Hino nacional português-[/COLOR][/B][COLOR red][B](A Portuguesa)[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/oBEw36t</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/pt.KodiTVR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/hino</externallink>
-<fanart>https://imgur.com/SFnSWer</fanart>
+<fanart>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/pt-history.flag.jpg</fanart>
 <info>Hino nacional português</info>
 </channel>
 </channels>
@@ -21,9 +21,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/VDlnjJg</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais</externallink>
-<fanart>https://imgur.com/W5rpMEy</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 1[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/SWKQDxo</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/favorite.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvrlist.m3u</externallink>
-<fanart>https://imgur.com/pk2hrho</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -41,9 +41,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 2[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/Cj5K9lY</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/favorite.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/portugallist.m3u</externallink>
-<fanart>https://imgur.com/ZuHJyRG</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/muitos-canais-koditvr.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -51,9 +51,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Desporto[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/sslZ4fS</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/icon-kodi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20sport.m3u</externallink>
-<fanart>https://imgur.com/bSMuHHA</fanart>
+<fanart>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/pt.outros.koditvr.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -61,9 +61,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 1[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/Vix4L1s</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%205%20com%20v%C3%A1rios%20links</externallink>
-<fanart>https://imgur.com/qfqIyWb</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/images.koditvr.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -71,9 +71,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 2[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/Uf9nNCc</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%202</externallink>
-<fanart>https://imgur.com/viCiZvS</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/%40KdiTVR.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -81,9 +81,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 3[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/9N2mPVq</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%201</externallink>
-<fanart>https://imgur.com/Uf9nNCc</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/%40KdiTVR.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -91,9 +91,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 4[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/muitos-canais-koditvr.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%203</externallink>
-<fanart></fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/justice.koditvr.png</fanart>
 <info></info>
 </channel>
 </channels>
@@ -101,9 +101,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 5[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/Gh1n2In</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr-faroeste.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%20faroeste%204</externallink>
-<fanart>https://imgur.com/XJ8u9RZ</fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.faroeste.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -111,9 +111,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Séries-lista 1[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv-online.filmes.s%C3%A9ries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20s%C3%A9ries</externallink>
-<fanart></fanart>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/justice.koditvr.png</fanart>
 <info></info>
 </channel>
 </channels>
