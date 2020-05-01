@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR yellow][B]..::TV_PORTUGAL-VILA REAL_ONLINE::..[/COLOR][/B]</name>
+<name>[COLOR yellow][B]..::TV_PORTUGAL_ONLINE::..[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<genre>I FIMES</genre>
+<genre>CANAIS</genre>
 <info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
 <fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
 </channel>
@@ -110,7 +110,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]KodiTVR-Séries-lista 1[/COLOR][/B]</name>
+<name>[COLOR blue][B]KodiTVR-Séries[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv-online.filmes.s%C3%A9ries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20s%C3%A9ries</externallink>
 <fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/justice.koditvr.png</fanart>
