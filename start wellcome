@@ -42,7 +42,7 @@
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 2[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/favorite.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/portugallist.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/portugallist.ts</externallink>
 <fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/muitos-canais-koditvr.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
