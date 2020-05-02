@@ -10,7 +10,7 @@
 ]]</listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
 <page>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvrlist.m3u</page>
-<referer>www.google.com</referer>
+<referer>www.google.com.br</referer>
 <x-forward></x-forward>
 <agent>GOPlayer</agent>
 </regex>
