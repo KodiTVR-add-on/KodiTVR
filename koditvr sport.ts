@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="DESPORTO" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",*****DESPORTO *****
 http://xio.t-v.io:80/Txn4zGmo3i/5WBgTmN19m/3763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PORTUGAL",
 http://m3u.box365.live:8080/live/Ruidourado/Hh7782/826.m3u8
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV [HD]" tvg-logo="http://185.62.189.133:16500/ecratotal/Logos/A%20BOLA.png" group-title="PORTUGAL",A BOLA TV [HD]
 http://m3u.box365.live:8080/live/Ruidourado/Hh7782/10.m3u8
