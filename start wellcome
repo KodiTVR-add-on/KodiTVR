@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][I][B]KodiTVR-FILMES-TORRENT[/B][/I][/COLOR]</name>
+<name>[COLOR red][B]KodiTVR-FILMES-TORRENT[/B][/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20torrent%20teste.M3U</externallink>
 <fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
