@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png" group-title="", KodiTVR
 #EXTINF:-1 tvg-id="" tvg-name="*****FILMES *****" tvg-logo="" group-title="TORRENT",*****03/05/2020 *****
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg" group-title="", 03/05/2020
-
 #EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg" group-title="", [COLOR red][B] -- FILMES TORRENT -- [/B][/COLOR]
-
-
 #EXTINF:-1 channelId="FILMES" tv-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png" aspect-ration="16:9" , The Simpsons
 http://plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C36AF52A5B77FBD2E5B1C2576BC7087A7870DF80&amp
