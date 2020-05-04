@@ -60,9 +60,9 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]...FILMES-TORRENT...[/B][/COLOR]</name>
+<name>[COLOR red][B]...FILMES-TORRENT-M3U...[/B][/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20torrent%20teste.M3U</externallink>
+<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20torrent.m3u</externallink>
 <fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
