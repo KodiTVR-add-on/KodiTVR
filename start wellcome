@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]..::KodiTVR-FILMES-TORRENT::..[/B][/COLOR]</name>
+<name>[COLOR red][B]..::FILMES-TORRENT::..[/B][/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20torrent%20teste.M3U</externallink>
 <fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
@@ -110,7 +110,7 @@
 
 <channels>
 <channel>
-<name>..::KodiTVR-Filmes-(Gdrive)::..</name>
+<name>[COLOR yellow][B][COLOR blue][B]...[/COLOR][/B]KodiTVR-Filmes-(Gdrive)[COLOR blue][B]...[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%205%20com%20v%C3%A1rios%20links</externallink>
 <fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
