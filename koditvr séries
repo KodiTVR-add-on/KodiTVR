@@ -40,55 +40,55 @@
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada completa 1 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ovaQot7DgQXjmU99jUpGlne6EJO.jpg</fanart>
 <info>Quando o seu irmão é condenado por um assassinato que não cometeu, Michael Scofield decide tirá-lo da prisão. Mas não pela porta de frente.</info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada completa 2 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb3w6zBq8I36sIvh8oFLC1h1ZQW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg</fanart>
 <info></info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada completa 3 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQQaDDhIOEfSXHynn1Pv7z1G8n8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uD3GfwJpLsp55h9SDiwRNammqmX.jpg</fanart>
 <info></info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada completa 4 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrfEGxQAcIUi7BShkCottnQNNyN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zwpSM3SXbD8SlShdRIpRd7rpj9l.jpg</fanart>
 <info></info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada completa 5 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6Y821aMRymfb737VBaCY1gsTWW.jpg</fanart>
 <info></info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Prison Break temporada Special [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7HFOunuAVpOdiBhXpjwRxIgK5y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l5soGzTS1Y2OXhcQdG5EzXrCjjg.jpg</fanart>
 <info></info>
 <info2></info2>
 
 <item>
 <title>[B][COLOR yellow] KodiTVR [COLOR yellow] série [/B][/COLOR] - [COLOR white] Narcos temporada completa 1 [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri= </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://www.imdb.com/title/tt2707408/mediaviewer/rm3298222336</thumbnail>
+<fanart>https://www.imdb.com/title/tt2707408/mediaviewer/rm4237746432</fanart>
+<info>As origens do tráfico e a ascensão e a queda do lendário traficante Pablo Escobar são retratadas com realismo.</info>
 <info2></info2>
