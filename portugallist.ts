@@ -203,8 +203,6 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/470.mpegts
 http://streamxcode.ddns.net:25461/load/desiboyz150/471.mpegts
 #EXTINF:-1,BENFICA TV1
 http://streamxcode.ddns.net:25461/load/desiboyz150/278.mpegts
-#EXTINF:-1,BIGGS KIDS
-http://streamxcode.ddns.net:25461/load/desiboyz150/473.mpegts
 #EXTINF:-1,CACA E PESCA
 http://streamxcode.ddns.net:25461/load/desiboyz150/474.mpegts
 #EXTINF:-1,CACA VISION
