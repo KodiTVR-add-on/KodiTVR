@@ -32,7 +32,7 @@
 <channel>
 <name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/canais.ts</externallink>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/canais.pt.m3us</externallink>
 <fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
