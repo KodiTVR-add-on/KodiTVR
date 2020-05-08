@@ -1,5 +1,5 @@
 <item>
-<title>CANAIS</title>
+<title>CANAIS TS</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -12,7 +12,7 @@
 <page>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvrlist.m3u</page>
 <referer>www.google.com.br</referer>
 <x-forward></x-forward>
-<agent>GOPlayer</agent>
+<agent>Kodi/18.6</agent>
 </regex>
 <regex>
 <name>encodedurl</name>
