@@ -59,7 +59,7 @@ http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3787
 #EXTINF:-1,PT: Sport TV 5 FHD
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3788
 #EXTINF:-1,PT: SPORTV5 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw3
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3789
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL [FHD]" tvg-logo="https://i.imgur.com/DyQzz9L.png" group-title="PORTUGAL",PORTO CANAL [FHD]
 http://m3u.box365.live:8080/live/Ruidourado/Hh7782/179.m3u8
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL" tvg-logo="https://i.imgur.com/DyQzz9L.png" group-title="PORTUGAL",PORTO CANAL
