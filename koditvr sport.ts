@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DESPORTO" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",*****KodiTVR-DESPORTO *****
+http://xio.t-v.io:80/Txn4zGmo3i/5WBgTmN19m/3763
+http://m3u.box365.live:8080/live/Ruidourado/Hh7782/826.m3u8
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV [HD]" tvg-logo="http://185.62.189.133:16500/ecratotal/Logos/A%20BOLA.png" group-title="PORTUGAL",A BOLA TV [HD]
+http://m3u.box365.live:8080/live/Ruidourado/Hh7782/10.m3u8
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV" tvg-logo="http://185.62.189.133:16500/ecratotal/Logos/A%20BOLA.png" group-title="PORTUGAL",A BOLA TV
+http://m3u.box365.live:8080/live/Ruidourado/Hh7782/9.m3u8
 #EXTINF:-1,|PT|SPORTV1 FHD
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1567
 #EXTINF:-1,|PT|SPORTV 3
@@ -53,13 +60,6 @@ http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3787
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3788
 #EXTINF:-1,PT: SPORTV5 HD
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw3
-#EXTINF:-1 tvg-id="" tvg-name="DESPORTO" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",*****DESPORTO *****
-http://xio.t-v.io:80/Txn4zGmo3i/5WBgTmN19m/3763
-http://m3u.box365.live:8080/live/Ruidourado/Hh7782/826.m3u8
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV [HD]" tvg-logo="http://185.62.189.133:16500/ecratotal/Logos/A%20BOLA.png" group-title="PORTUGAL",A BOLA TV [HD]
-http://m3u.box365.live:8080/live/Ruidourado/Hh7782/10.m3u8
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV" tvg-logo="http://185.62.189.133:16500/ecratotal/Logos/A%20BOLA.png" group-title="PORTUGAL",A BOLA TV
-http://m3u.box365.live:8080/live/Ruidourado/Hh7782/9.m3u8
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL [FHD]" tvg-logo="https://i.imgur.com/DyQzz9L.png" group-title="PORTUGAL",PORTO CANAL [FHD]
 http://m3u.box365.live:8080/live/Ruidourado/Hh7782/179.m3u8
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL" tvg-logo="https://i.imgur.com/DyQzz9L.png" group-title="PORTUGAL",PORTO CANAL
