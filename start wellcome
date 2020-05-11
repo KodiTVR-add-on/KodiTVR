@@ -60,16 +60,10 @@
 
 <channels>
 <channel>
-<<<<<<< HEAD
 <name>[COLOR blue][B]KodiTVR-Desporto[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/icon-kodi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/koditvr%20sport.ts</externallink>
 <fanart>https://ia601400.us.archive.org/3/items/fanart.update/Sports-all.jpg</fanart>
-
-<name>[COLOR yellow][B]KodiTVR-Rádio[/COLOR][/B]</name>
-<thumbnail>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dio.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/K.r%C3%A1dio.M3U</externallink>
-<fanart>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dios.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 </channels>
@@ -78,7 +72,7 @@
 <channel>
 <name>[COLOR yellow][B]KodiTVR-Rádio[/COLOR][/B]</name>
 <thumbnail>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dio.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/koditvr%20sport.ts</externallink>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/K.r%C3%A1dio.M3U</externallink>
 <fanart>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dios.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
