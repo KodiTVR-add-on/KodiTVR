@@ -1,573 +1,493 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", RTP 1
-http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8
-#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", RTP 2
-http://meon-pro.com:80/live/kitchen/kitchen/555.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", SIC
-http://meon-pro.com:80/live/kitchen/kitchen/556.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://oslo-meon.ddns.net/logodvb/tvi.png" group-title="**| Portugal |**", TVI
-http://meon-pro.com:80/live/kitchen/kitchen/557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HCoV-19" tvg-logo="http://oslo-meon.ddns.net/logos5/corona.png" group-title="**| Portugal |**", HCoV-19
-http://meon-pro.com:80/live/kitchen/kitchen/8473.m3u8
-#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", RTP 1 HD
-http://meon-pro.com:80/live/kitchen/kitchen/2180.m3u8
-#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 HD" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", RTP 2 HD
-http://meon-pro.com:80/live/kitchen/kitchen/2211.m3u8
-#EXTINF:-1 tvg-id="SIC FULL HD" tvg-name="SIC HD" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", SIC HD
-http://meon-pro.com:80/live/kitchen/kitchen/2212.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/tvi.png" group-title="**| Portugal |**", TVI HD
-http://meon-pro.com:80/live/kitchen/kitchen/2213.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://oslo-meon.ddns.net/Logos/CM%20TV.png" group-title="**| Portugal |**", CMTV
-http://meon-pro.com:80/live/kitchen/kitchen/616.m3u8
-#EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/CMTV.png" group-title="**| Portugal |**", CMTV HD
-http://meon-pro.com:80/live/kitchen/kitchen/4895.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/rtp3.png" group-title="**| Portugal |**", RTP 3
-http://meon-pro.com:80/live/kitchen/kitchen/672.m3u8
-#EXTINF:-1 tvg-id="RTP3_ALT" tvg-name="RTP 3 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/rtp3.png" group-title="**| Portugal |**", RTP 3 HD
-http://meon-pro.com:80/live/kitchen/kitchen/4896.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notícias" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/sic_noticias.png" group-title="**| Portugal |**", SIC Notícias
-http://meon-pro.com:80/live/kitchen/kitchen/614.m3u8
-#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC Noticias HD" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/sic_noticias.png" group-title="**| Portugal |**", SIC Noticias HD
-http://meon-pro.com:80/live/kitchen/kitchen/2214.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://oslo-meon.ddns.net/Logos/logo-TVI24.png" group-title="**| Portugal |**", TVI 24
-http://meon-pro.com:80/live/kitchen/kitchen/612.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://oslo-meon.ddns.net/Logos/TVI%20FICCAO.png" group-title="**| Portugal |**", TVI Ficção
-http://meon-pro.com:80/live/kitchen/kitchen/611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality ( live )" tvg-logo="" group-title="**| Portugal |**", TVI Reality ( live )
-http://meon-pro.com:80/live/kitchen/kitchen/8684.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://oslo-meon.ddns.net/logo/Love-On-Top.png" group-title="**| Portugal |**", TVI Reality
-http://meon-pro.com:80/live/kitchen/kitchen/558.m3u8
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20MULHER.png" group-title="**| Portugal |**", SIC Mulher
-http://meon-pro.com:80/live/kitchen/kitchen/615.m3u8
-#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20Radical.png" group-title="**| Portugal |**", SIC Radical
-http://meon-pro.com:80/live/kitchen/kitchen/613.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="http://oslo-meon.ddns.net/logov2/SIC+Radical+logo.png" group-title="**| Portugal |**", SIC Radical HD
-http://meon-pro.com:80/live/kitchen/kitchen/2215.m3u8
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20CARAS.png" group-title="**| Portugal |**", SIC Caras
-http://meon-pro.com:80/live/kitchen/kitchen/560.m3u8
-#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/canalq.png" group-title="**| Portugal |**", Canal Q
-http://meon-pro.com:80/live/kitchen/kitchen/691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Desporto ......" tvg-logo="http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", ...... Desporto ......
-http://meon-pro.com:80/live/kitchen/kitchen/939.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV  +" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv+.png" group-title="**| Portugal |**", Sport TV  +
-http://meon-pro.com:80/live/kitchen/kitchen/990.m3u8
-#EXTINF:-1 tvg-id="SPTV" tvg-name="Sport TV 1" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv1.png" group-title="**| Portugal |**", Sport TV 1
-http://meon-pro.com:80/live/kitchen/kitchen/563.m3u8
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="Sport TV 2" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv2.png" group-title="**| Portugal |**", Sport TV 2
-http://meon-pro.com:80/live/kitchen/kitchen/619.m3u8
-#EXTINF:-1 tvg-id="SPTV3" tvg-name="Sport TV 3" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv3.png" group-title="**| Portugal |**", Sport TV 3
-http://meon-pro.com:80/live/kitchen/kitchen/676.m3u8
-#EXTINF:-1 tvg-id="SPTV4" tvg-name="Sport TV 4" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv4.png" group-title="**| Portugal |**", Sport TV 4
-http://meon-pro.com:80/live/kitchen/kitchen/677.m3u8
-#EXTINF:-1 tvg-id="SPTV5" tvg-name="Sport TV 5" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv5.png" group-title="**| Portugal |**", Sport TV 5
-http://meon-pro.com:80/live/kitchen/kitchen/624.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV + HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/sportv+hd.png" group-title="**| Portugal |**", Sport TV + HD
-http://meon-pro.com:80/live/kitchen/kitchen/4403.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv1hd.png" group-title="**| Portugal |**", Sport TV 1 HD
-http://meon-pro.com:80/live/kitchen/kitchen/674.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv2hd.png" group-title="**| Portugal |**", Sport TV 2 HD
-http://meon-pro.com:80/live/kitchen/kitchen/680.m3u8
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv3hd.png" group-title="**| Portugal |**", Sport TV 3 HD
-http://meon-pro.com:80/live/kitchen/kitchen/568.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv4hd.png" group-title="**| Portugal |**", Sport TV 4 HD
-http://meon-pro.com:80/live/kitchen/kitchen/2167.m3u8
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv5hd.png" group-title="**| Portugal |**", Sport TV 5 HD
-http://meon-pro.com:80/live/kitchen/kitchen/977.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="**| Portugal |**", BTV
-http://meon-pro.com:80/live/kitchen/kitchen/625.m3u8
-#EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV HD" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/btv1.png" group-title="**| Portugal |**", BTV HD
-http://meon-pro.com:80/live/kitchen/kitchen/570.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports1.png" group-title="**| Portugal |**", Eleven Sports 1
-http://meon-pro.com:80/live/kitchen/kitchen/5423.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports2.png" group-title="**| Portugal |**", Eleven Sports 2
-http://meon-pro.com:80/live/kitchen/kitchen/5438.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports3.png" group-title="**| Portugal |**", Eleven Sports 3
-http://meon-pro.com:80/live/kitchen/kitchen/5649.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports4.png" group-title="**| Portugal |**", Eleven Sports 4
-http://meon-pro.com:80/live/kitchen/kitchen/5652.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports5.png" group-title="**| Portugal |**", Eleven Sports 5
-http://meon-pro.com:80/live/kitchen/kitchen/5653.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports6.png" group-title="**| Portugal |**", Eleven Sports 6
-http://meon-pro.com:80/live/kitchen/kitchen/5654.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports1.png" group-title="**| Portugal |**", Eleven Sports 1 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5417.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports2.png" group-title="**| Portugal |**", Eleven Sports 2 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5418.m3u8
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="Eleven Sports 3 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports3.png" group-title="**| Portugal |**", Eleven Sports 3 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5419.m3u8
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports4.png" group-title="**| Portugal |**", Eleven Sports 4 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5420.m3u8
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports5.png" group-title="**| Portugal |**", Eleven Sports 5 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5421.m3u8
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven Sports 6 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports6.png" group-title="**| Portugal |**", Eleven Sports 6 HD
-http://meon-pro.com:80/live/kitchen/kitchen/5422.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://oslo-meon.ddns.net/Logos/A%20BOLA.png" group-title="**| Portugal |**", A Bola TV
-http://meon-pro.com:80/live/kitchen/kitchen/576.m3u8
-#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="http://oslo-meon.ddns.net/Logos/Porto%20Canal.png" group-title="**| Portugal |**", Porto Canal
-http://meon-pro.com:80/live/kitchen/kitchen/629.m3u8
-#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="Porto Canal HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Porto%20Canal.png" group-title="**| Portugal |**", Porto Canal HD
-http://meon-pro.com:80/live/kitchen/kitchen/3122.m3u8
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV" tvg-logo="http://oslo-meon.ddns.net/Logos/SPORTING%20TV.png" group-title="**| Portugal |**", Sporting TV
-http://meon-pro.com:80/live/kitchen/kitchen/627.m3u8
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV HD" tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="**| Portugal |**", Sporting TV HD
-http://meon-pro.com:80/live/kitchen/kitchen/4822.m3u8
-#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="Sport TV NBA" tvg-logo="http://oslo-meon.ddns.net/logo/SporTV.png" group-title="**| Portugal |**", Sport TV NBA
-http://meon-pro.com:80/live/kitchen/kitchen/5773.m3u8
-#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="Real Madrid" tvg-logo="http://oslo-meon.ddns.net/Logos/REAL%20MADRID%20TV%20HD.png" group-title="**| Portugal |**", Real Madrid
-http://meon-pro.com:80/live/kitchen/kitchen/683.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 - FPF" tvg-logo="http://oslo-meon.ddns.net/Logos/canal%2011.png" group-title="**| Portugal |**", Canal 11 - FPF
-http://meon-pro.com:80/live/kitchen/kitchen/8338.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/pfc.png" group-title="**| Portugal |**", PFC
-http://meon-pro.com:80/live/kitchen/kitchen/573.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport 1" tvg-logo="http://oslo-meon.ddns.net/Logos/Eurosport.png" group-title="**| Portugal |**", Eurosport 1
-http://meon-pro.com:80/live/kitchen/kitchen/684.m3u8
-#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://oslo-meon.ddns.net/Logos/EUROSPORT%20HD.png" group-title="**| Portugal |**", Eurosport 1 HD
-http://meon-pro.com:80/live/kitchen/kitchen/632.m3u8
-#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://oslo-meon.ddns.net/Logos/EUROSPORT%202.png" group-title="**| Portugal |**", Eurosport 2
-http://meon-pro.com:80/live/kitchen/kitchen/633.m3u8
-#EXTINF:-1 tvg-id="NBATVHD" tvg-name="NBA TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/sport_TV_nba.png" group-title="**| Portugal |**", NBA TV HD
-http://meon-pro.com:80/live/kitchen/kitchen/2191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Infantil ......" tvg-logo="http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", ...... Infantil ......
-http://meon-pro.com:80/live/kitchen/kitchen/933.m3u8
-#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://oslo-meon.ddns.net/Logos/Canal%20Panda.png" group-title="**| Portugal |**", Canal Panda
-http://meon-pro.com:80/live/kitchen/kitchen/657.m3u8
-#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://oslo-meon.ddns.net/Logos/PANDA%20BIGGS.png" group-title="**| Portugal |**", Panda Biggs
-http://meon-pro.com:80/live/kitchen/kitchen/654.m3u8
-#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://oslo-meon.ddns.net/Logos/DISNEY%20CHANNEL.png" group-title="**| Portugal |**", Disney Channel
-http://meon-pro.com:80/live/kitchen/kitchen/692.m3u8
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://oslo-meon.ddns.net/Logos/Disney%20Junior.png" group-title="**| Portugal |**", Disney Junior
-http://meon-pro.com:80/live/kitchen/kitchen/652.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC Kids" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20K.png" group-title="**| Portugal |**", SIC Kids
-http://meon-pro.com:80/live/kitchen/kitchen/650.m3u8
-#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://oslo-meon.ddns.net/Logos/CARTOON%20NETWORK.png" group-title="**| Portugal |**", Cartoon Network
-http://meon-pro.com:80/live/kitchen/kitchen/597.m3u8
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Nick_Jr.png" group-title="**| Portugal |**", Nick Jr
-http://meon-pro.com:80/live/kitchen/kitchen/4842.m3u8
-#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://oslo-meon.ddns.net/Logos/Nickelodeon.png" group-title="**| Portugal |**", Nickelodeon
-http://meon-pro.com:80/live/kitchen/kitchen/655.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://crushgame.ru/channels_logos/Children/Boomerang.png" group-title="**| Portugal |**", Boomerang
-http://meon-pro.com:80/live/kitchen/kitchen/5601.m3u8
-#EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://oslo-meon.ddns.net/Logos/JIM%20JAM.png" group-title="**| Portugal |**", Jim Jam
-http://meon-pro.com:80/live/kitchen/kitchen/656.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://oslo-meon.ddns.net/Logos/BABY%20TV.png" group-title="**| Portugal |**", Baby TV
-http://meon-pro.com:80/live/kitchen/kitchen/653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Filmes ......" tvg-logo="http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", ...... Filmes ......
-http://meon-pro.com:80/live/kitchen/kitchen/936.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TV Cine TOP" tvg-logo="http://oslo-meon.ddns.net/logo/tvctop.png" group-title="**| Portugal |**", TV Cine TOP
-http://meon-pro.com:80/live/kitchen/kitchen/5389.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TV Cine EDITION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcedition.png" group-title="**| Portugal |**", TV Cine EDITION
-http://meon-pro.com:80/live/kitchen/kitchen/639.m3u8
-#EXTINF:-1 tvg-id="TV CINE 3 HD (LOW BITRATE)" tvg-name="TV Cine EMOTION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcemotion.png" group-title="**| Portugal |**", TV Cine EMOTION
-http://meon-pro.com:80/live/kitchen/kitchen/640.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TV Cine ACTION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcaction.png" group-title="**| Portugal |**", TV Cine ACTION
-http://meon-pro.com:80/live/kitchen/kitchen/641.m3u8
-#EXTINF:-1 tvg-id="TVC1HD(LOWBITRATE)" tvg-name="TV Cine TOP HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvctop.png" group-title="**| Portugal |**", TV Cine TOP HD
-http://meon-pro.com:80/live/kitchen/kitchen/577.m3u8
-#EXTINF:-1 tvg-id="TVC2HD(LOWBITRATE)" tvg-name="TV Cine EDITION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcedition.png" group-title="**| Portugal |**", TV Cine EDITION HD
-http://meon-pro.com:80/live/kitchen/kitchen/578.m3u8
-#EXTINF:-1 tvg-id="TVC3HD(LOWBITRATE)" tvg-name="TV Cine EMOTION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcemotion.png" group-title="**| Portugal |**", TV Cine EMOTION HD
-http://meon-pro.com:80/live/kitchen/kitchen/579.m3u8
-#EXTINF:-1 tvg-id="TVC4HD(LOWBITRATE)" tvg-name="TV Cine ACTION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcaction.png" group-title="**| Portugal |**", TV Cine ACTION HD
-http://meon-pro.com:80/live/kitchen/kitchen/580.m3u8
-#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV Series" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/TvSeries.pt.png" group-title="**| Portugal |**", TV Series
-http://meon-pro.com:80/live/kitchen/kitchen/3232.m3u8
-#EXTINF:-1 tvg-id="TVCSERIESLOWBITRATE" tvg-name="TV Series HD" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/tvshd.png" group-title="**| Portugal |**", TV Series HD
-http://meon-pro.com:80/live/kitchen/kitchen/583.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Hollywood.png" group-title="**| Portugal |**", Hollywood HD
-http://meon-pro.com:80/live/kitchen/kitchen/642.m3u8
-#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://oslo-meon.ddns.net/Logos/HOLLYWOOD%20HD.png" group-title="**| Portugal |**", Hollywood
-http://meon-pro.com:80/live/kitchen/kitchen/584.m3u8
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://oslo-meon.ddns.net/Logos/Cinemundo.png" group-title="**| Portugal |**", Cinemundo
-http://meon-pro.com:80/live/kitchen/kitchen/2189.m3u8
-#EXTINF:-1 tvg-id="CineMundo2" tvg-name="Cinemundo HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Cinemundo.png" group-title="**| Portugal |**", Cinemundo HD
-http://meon-pro.com:80/live/kitchen/kitchen/646.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/AMC.pt.png" group-title="**| Portugal |**", AMC
-http://meon-pro.com:80/live/kitchen/kitchen/581.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/AMC.pt.png" group-title="**| Portugal |**", AMC HD
-http://meon-pro.com:80/live/kitchen/kitchen/648.m3u8
-#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="FOX Movies" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/foxmovies.png" group-title="**| Portugal |**", FOX Movies
-http://meon-pro.com:80/live/kitchen/kitchen/688.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20MOVIES%20HD.png" group-title="**| Portugal |**", FOX Movies HD
-http://meon-pro.com:80/live/kitchen/kitchen/643.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="NOS Studios" tvg-logo="" group-title="**| Portugal |**", NOS Studios
-http://meon-pro.com:80/live/kitchen/kitchen/8402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Séries ......" tvg-logo="" group-title="**| Portugal |**", ...... Séries ......
-http://meon-pro.com:80/live/kitchen/kitchen/5408.m3u8
-#EXTINF:-1 tvg-id="AXN HD (LOW BITRATE)" tvg-name="AXN HD" tvg-logo="http://oslo-meon.ddns.net/Logos/AXN%20HD.png" group-title="**| Portugal |**", AXN HD
-http://meon-pro.com:80/live/kitchen/kitchen/586.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN White HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Axn%20White%20HD.png" group-title="**| Portugal |**", AXN White HD
-http://meon-pro.com:80/live/kitchen/kitchen/587.m3u8
-#EXTINF:-1 tvg-id="AXN BLACK HD (LOW BITRATE)" tvg-name="AXN Black HD" tvg-logo="http://oslo-meon.ddns.net/Logos/AXN%20BLACK%20HD.png" group-title="**| Portugal |**", AXN Black HD
-http://meon-pro.com:80/live/kitchen/kitchen/647.m3u8
-#EXTINF:-1 tvg-id="SKYFY HD" tvg-name="Syfy" tvg-logo="http://oslo-meon.ddns.net/Logos/SYFY%20HD.png" group-title="**| Portugal |**", Syfy
-http://meon-pro.com:80/live/kitchen/kitchen/649.m3u8
-#EXTINF:-1 tvg-id="SKYFY HD" tvg-name="Syfy HD" tvg-logo="http://oslo-meon.ddns.net/Logos/SYFY%20HD.png" group-title="**| Portugal |**", Syfy HD
-http://meon-pro.com:80/live/kitchen/kitchen/4821.m3u8
-#EXTINF:-1 tvg-id="FOX LOW" tvg-name="FOX HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20HD.png" group-title="**| Portugal |**", FOX HD
-http://meon-pro.com:80/live/kitchen/kitchen/644.m3u8
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" group-title="**| Portugal |**", Fox Life
-http://meon-pro.com:80/live/kitchen/kitchen/4823.m3u8
-#EXTINF:-1 tvg-id="FOXLIFELOWOUHD" tvg-name="FOX Life HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Fox%20Life%20HD.png" group-title="**| Portugal |**", FOX Life HD
-http://meon-pro.com:80/live/kitchen/kitchen/585.m3u8
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="Fox Crime" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049909.png" group-title="**| Portugal |**", Fox Crime
-http://meon-pro.com:80/live/kitchen/kitchen/4824.m3u8
-#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="FOX Crime HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20CRIME%20HD.png" group-title="**| Portugal |**", FOX Crime HD
-http://meon-pro.com:80/live/kitchen/kitchen/645.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FOX Comedy" tvg-logo="http://oslo-meon.ddns.net/logov2/FOXCOH.png" group-title="**| Portugal |**", FOX Comedy
-http://meon-pro.com:80/live/kitchen/kitchen/588.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="http://oslo-meon.ddns.net/logov2/FOXCOH.png" group-title="**| Portugal |**", FOX Comedy HD
-http://meon-pro.com:80/live/kitchen/kitchen/1825.m3u8
-#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Eurochannel" tvg-logo="http://oslo-meon.ddns.net/Logos/A&E.png" group-title="**| Portugal |**", Eurochannel
-http://meon-pro.com:80/live/kitchen/kitchen/591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Musicas ......" tvg-logo="http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", ...... Musicas ......
-http://meon-pro.com:80/live/kitchen/kitchen/935.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://oslo-meon.ddns.net/Logos/VH1.png" group-title="**| Portugal |**", VH1
-http://meon-pro.com:80/live/kitchen/kitchen/697.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Portugal" tvg-logo="http://oslo-meon.ddns.net/logov2/MTV.pt.png" group-title="**| Portugal |**", MTV Portugal
-http://meon-pro.com:80/live/kitchen/kitchen/658.m3u8
-#EXTINF:-1 tvg-id="Afro Music" tvg-name="Afro Music" tvg-logo="http://oslo-meon.ddns.net/Logos/AFRO%20MUSIC.png" group-title="**| Portugal |**", Afro Music
-http://meon-pro.com:80/live/kitchen/kitchen/599.m3u8
-#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM POP" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/mcmpop.png" group-title="**| Portugal |**", MCM POP
-http://meon-pro.com:80/live/kitchen/kitchen/927.m3u8
-#EXTINF:-1 tvg-id="MCM" tvg-name="MCM TOP" tvg-logo="http://oslo-meon.ddns.net/logov2/mcm.png" group-title="**| Portugal |**", MCM TOP
-http://meon-pro.com:80/live/kitchen/kitchen/976.m3u8
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Urban TV" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20urban.png" group-title="**| Portugal |**", Trace Urban TV
-http://meon-pro.com:80/live/kitchen/kitchen/857.m3u8
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Tropical" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20tropical.png" group-title="**| Portugal |**", Trace Tropical
-http://meon-pro.com:80/live/kitchen/kitchen/5630.m3u8
-#EXTINF:-1 tvg-id="TRACE TOCA HD" tvg-name="Trace Toca" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20toca.png" group-title="**| Portugal |**", Trace Toca
-http://meon-pro.com:80/live/kitchen/kitchen/5416.m3u8
-#EXTINF:-1 tvg-id="MVM" tvg-name="MVM" tvg-logo="http://oslo-meon.ddns.net/Logos/MVM.png" group-title="**| Portugal |**", MVM
-http://meon-pro.com:80/live/kitchen/kitchen/5392.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV" tvg-name="Clubbing TV" tvg-logo="http://oslo-meon.ddns.net/logov2/ctv_logo.png" group-title="**| Portugal |**", Clubbing TV
-http://meon-pro.com:80/live/kitchen/kitchen/2171.m3u8
-#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://oslo-meon.ddns.net/Logos/MEZZO.png" group-title="**| Portugal |**", MEZZO
-http://meon-pro.com:80/live/kitchen/kitchen/932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Combate ......" tvg-logo="" group-title="**| Portugal |**", ...... Combate ......
-http://meon-pro.com:80/live/kitchen/kitchen/5412.m3u8
-#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Sport" tvg-logo="http://oslo-meon.ddns.net/Logos/kombat-sport-chega-ao-meo.png" group-title="**| Portugal |**", Kombat Sport
-http://meon-pro.com:80/live/kitchen/kitchen/974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Natureza ......" tvg-logo="" group-title="**| Portugal |**", ...... Natureza ......
-http://meon-pro.com:80/live/kitchen/kitchen/5411.m3u8
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://oslo-meon.ddns.net/Logos/Caza%20y%20Pesca.png" group-title="**| Portugal |**", Caça e Pesca
-http://meon-pro.com:80/live/kitchen/kitchen/601.m3u8
-#EXTINF:-1 tvg-id="Caçavision" tvg-name="CaçaVision" tvg-logo="http://oslo-meon.ddns.net/Logos/CA%c3%87AVISION.png" group-title="**| Portugal |**", CaçaVision
-http://meon-pro.com:80/live/kitchen/kitchen/703.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="http://oslo-meon.ddns.net/Logos/Toros%20TV.png" group-title="**| Portugal |**", Toros TV
-http://meon-pro.com:80/live/kitchen/kitchen/698.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Toros%20TV.png" group-title="**| Portugal |**", Toros TV HD
-http://meon-pro.com:80/live/kitchen/kitchen/5398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campo Pequeno TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/campotv.png" group-title="**| Portugal |**", Campo Pequeno TV HD
-http://meon-pro.com:80/live/kitchen/kitchen/8375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Motores ......" tvg-logo="" group-title="**| Portugal |**", ...... Motores ......
-http://meon-pro.com:80/live/kitchen/kitchen/5410.m3u8
-#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="Motorvision" tvg-logo="http://oslo-meon.ddns.net/logov2/MOTORSPORTTV.png" group-title="**| Portugal |**", Motorvision
-http://meon-pro.com:80/live/kitchen/kitchen/2299.m3u8
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision HD" tvg-logo="http://oslo-meon.ddns.net/Logos/MOTORVISION.png" group-title="**| Portugal |**", Motorvision HD
-http://meon-pro.com:80/live/kitchen/kitchen/574.m3u8
-#EXTINF:-1 tvg-id="Ext_Spt" tvg-name="Fuel TV" tvg-logo="http://oslo-meon.ddns.net/Logos/FUEL%20TV.png" group-title="**| Portugal |**", Fuel TV
-http://meon-pro.com:80/live/kitchen/kitchen/575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Informação local ......" tvg-logo="" group-title="**| Portugal |**", ...... Informação local ......
-http://meon-pro.com:80/live/kitchen/kitchen/5405.m3u8
-#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20MADEIRA.png" group-title="**| Portugal |**", RTP Madeira
-http://meon-pro.com:80/live/kitchen/kitchen/607.m3u8
-#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Açores" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20ACORES.png" group-title="**| Portugal |**", RTP Açores
-http://meon-pro.com:80/live/kitchen/kitchen/673.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP África" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20%C3%83%C2%81frica.png" group-title="**| Portugal |**", RTP África
-http://meon-pro.com:80/live/kitchen/kitchen/609.m3u8
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20MEMORIA.png" group-title="**| Portugal |**", RTP Memoria
-http://meon-pro.com:80/live/kitchen/kitchen/606.m3u8
-#EXTINF:-1 tvg-id="Canal180" tvg-name="Canal 180" tvg-logo="http://oslo-meon.ddns.net/logov2/180.png" group-title="**| Portugal |**", Canal 180
-http://meon-pro.com:80/live/kitchen/kitchen/5402.m3u8
-#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="ARTV" tvg-logo="http://oslo-meon.ddns.net/logodvb/artv.png" group-title="**| Portugal |**", ARTV
-http://meon-pro.com:80/live/kitchen/kitchen/728.m3u8
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://oslo-meon.ddns.net/Logos/CBS%20REALITY.png" group-title="**| Portugal |**", CBS Reality
-http://meon-pro.com:80/live/kitchen/kitchen/590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Documentários ......" tvg-logo="" group-title="**| Portugal |**", ...... Documentários ......
-http://meon-pro.com:80/live/kitchen/kitchen/5409.m3u8
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime+Investigation" tvg-logo="http://oslo-meon.ddns.net/logov2/crimeandinvestigation.png" group-title="**| Portugal |**", Crime+Investigation
-http://meon-pro.com:80/live/kitchen/kitchen/5683.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Investigation-Discovery.png" group-title="**| Portugal |**", ID Investigation Discovery
-http://meon-pro.com:80/live/kitchen/kitchen/5684.m3u8
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="**| Portugal |**", Blaze
-http://meon-pro.com:80/live/kitchen/kitchen/5393.m3u8
-#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia" tvg-logo="http://oslo-meon.ddns.net/Logos/Odisseia.png" group-title="**| Portugal |**", Odisseia
-http://meon-pro.com:80/live/kitchen/kitchen/665.m3u8
-#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia" tvg-logo="http://oslo-meon.ddns.net/Logos/Canal%20de%20Historia.png" group-title="**| Portugal |**", Canal Historia
-http://meon-pro.com:80/live/kitchen/kitchen/702.m3u8
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel HD" tvg-logo="http://oslo-meon.ddns.net/logov2/Travel_Channel_logo.png" group-title="**| Portugal |**", Travel Channel HD
-http://meon-pro.com:80/live/kitchen/kitchen/662.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="http://oslo-meon.ddns.net/Logos/National%20Geography%20Wild.png" group-title="**| Portugal |**", Nat Geo Wild
-http://meon-pro.com:80/live/kitchen/kitchen/593.m3u8
-#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic HD" tvg-logo="http://oslo-meon.ddns.net/Logos/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="**| Portugal |**", National Geographic HD
-http://meon-pro.com:80/live/kitchen/kitchen/592.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery HD Showcase" tvg-logo="http://oslo-meon.ddns.net/Logos/DISCOVERY%20SHOWCASE%20HD.png" group-title="**| Portugal |**", Discovery HD Showcase
-http://meon-pro.com:80/live/kitchen/kitchen/958.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://oslo-meon.ddns.net/Logos/Discovery%20Channel.png" group-title="**| Portugal |**", Discovery Channel
-http://meon-pro.com:80/live/kitchen/kitchen/659.m3u8
-#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="Fine Living Network HD" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/fine_living.png" group-title="**| Portugal |**", Fine Living Network HD
-http://meon-pro.com:80/live/kitchen/kitchen/5401.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://oslo-meon.ddns.net/Logos/TLC.png" group-title="**| Portugal |**", TLC
-http://meon-pro.com:80/live/kitchen/kitchen/589.m3u8
-#EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment" tvg-logo="http://oslo-meon.ddns.net/Logos/E!%20ENTERTAINMENT.png" group-title="**| Portugal |**", E! Entertainment
-http://meon-pro.com:80/live/kitchen/kitchen/595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Internacionais ......" tvg-logo="" group-title="**| Portugal |**", ...... Internacionais ......
-http://meon-pro.com:80/live/kitchen/kitchen/5406.m3u8
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name=" Globo Portugal" tvg-logo="http://oslo-meon.ddns.net/Logos/TV%20GLOBO.png" group-title="**| Portugal |**",  Globo Portugal
-http://meon-pro.com:80/live/kitchen/kitchen/561.m3u8
-#EXTINF:-1 tvg-id="TVGloboPortugal2" tvg-name="TV Globo NOW" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/globopremium.png" group-title="**| Portugal |**", TV Globo NOW
-http://meon-pro.com:80/live/kitchen/kitchen/562.m3u8
-#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record" tvg-logo="http://oslo-meon.ddns.net/Logos/Tv%20Record.png" group-title="**| Portugal |**", TV Record
-http://meon-pro.com:80/live/kitchen/kitchen/664.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/tpa.png" group-title="**| Portugal |**", TPA
-http://meon-pro.com:80/live/kitchen/kitchen/915.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="Zap" tvg-logo="http://www.zap.co.ao/uploads/editor/images/sobre/logo-zap-contactos.png" group-title="**| Portugal |**", Zap
-http://meon-pro.com:80/live/kitchen/kitchen/8378.m3u8
-#EXTINF:-1 tvg-id="REGIOES TV" tvg-name="Regiões TV" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/RegioesTV.pt.png" group-title="**| Portugal |**", Regiões TV
-http://meon-pro.com:80/live/kitchen/kitchen/5399.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/CNN.png" group-title="**| Portugal |**", CNN
-http://meon-pro.com:80/live/kitchen/kitchen/964.m3u8
-#EXTINF:-1 tvg-id="EURON" tvg-name="Euronews" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Euronews.png" group-title="**| Portugal |**", Euronews
-http://meon-pro.com:80/live/kitchen/kitchen/2184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="" group-title="**| Portugal |**", Euro Channel
-http://meon-pro.com:80/live/kitchen/kitchen/8411.m3u8
-#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" tvg-logo="http://oslo-meon.ddns.net/logov2/galicia.png" group-title="**| Portugal |**", TV Galicia
-http://meon-pro.com:80/live/kitchen/kitchen/960.m3u8
-#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="http://oslo-meon.ddns.net/logov2/fozn.png" group-title="**| Portugal |**", FOX News
-http://meon-pro.com:80/live/kitchen/kitchen/2170.m3u8
-#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC World News" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/BBC_World_News.png" group-title="**| Portugal |**", BBC World News
-http://meon-pro.com:80/live/kitchen/kitchen/4839.m3u8
-#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/France_24.png" group-title="**| Portugal |**", France 24
-http://meon-pro.com:80/live/kitchen/kitchen/965.m3u8
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entretainment" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/bbc_entert.png" group-title="**| Portugal |**", BBC Entretainment
-http://meon-pro.com:80/live/kitchen/kitchen/705.m3u8
-#EXTINF:-1 tvg-id="SKYN" tvg-name="SKY NEWS" tvg-logo="http://oslo-meon.ddns.net/logo/SKY%20News.png" group-title="**| Portugal |**", SKY NEWS
-http://meon-pro.com:80/live/kitchen/kitchen/948.m3u8
-#EXTINF:-1 tvg-id="FTV" tvg-name="Fashion TV" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Fashion_TV_Logo.png" group-title="**| Portugal |**", Fashion TV
-http://meon-pro.com:80/live/kitchen/kitchen/2181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Culinária ......" tvg-logo="" group-title="**| Portugal |**", ...... Culinária ......
-http://meon-pro.com:80/live/kitchen/kitchen/5407.m3u8
-#EXTINF:-1 tvg-id="24KITCHENHDLOW" tvg-name="24 Kitchen HD" tvg-logo="http://oslo-meon.ddns.net/Logos/24%20KITCHEN%20HD.png" group-title="**| Portugal |**", 24 Kitchen HD
-http://meon-pro.com:80/live/kitchen/kitchen/600.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="Casa e Cozinha" tvg-logo="" group-title="**| Portugal |**", Casa e Cozinha
-http://meon-pro.com:80/live/kitchen/kitchen/8631.m3u8
-#EXTINF:-1 tvg-id="MyCuisine" tvg-name="My Cuisine" tvg-logo="http://oslo-meon.ddns.net/logodvb/My_Cuisine.png" group-title="**| Portugal |**", My Cuisine
-http://meon-pro.com:80/live/kitchen/kitchen/4841.m3u8
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/FoodNetwork.pt.png" group-title="**| Portugal |**", Food Network
-http://meon-pro.com:80/live/kitchen/kitchen/2183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="...... Religião ......" tvg-logo="" group-title="**| Portugal |**", ...... Religião ......
-http://meon-pro.com:80/live/kitchen/kitchen/5403.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/KuriakosTv.pt.png" group-title="**| Portugal |**", Kuriakos TV
-http://meon-pro.com:80/live/kitchen/kitchen/5690.m3u8
-#EXTINF:-1 tvg-id="TV Fatima" tvg-name="Tv Fatima" tvg-logo="http://oslo-meon.ddns.net/Logos/fatimatv.png" group-title="**| Portugal |**", Tv Fatima
-http://meon-pro.com:80/live/kitchen/kitchen/2065.m3u8
-#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="Canção Nova" tvg-logo="http://oslo-meon.ddns.net/Logos/TV%20CAN%C3%87AO%20NOVA.png" group-title="**| Portugal |**", Canção Nova
-http://meon-pro.com:80/live/kitchen/kitchen/972.m3u8
-#EXTINF:-1 tvg-id="GINX" tvg-name="Ginx" tvg-logo="http://oslo-meon.ddns.net/Logos/GINX.png" group-title="**| Portugal |**", Ginx
-http://meon-pro.com:80/live/kitchen/kitchen/8018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="......  Relaxar ......" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_none.svg/120px-Star_none.svg.png" group-title="**| Portugal |**", ......  Relaxar ......
-http://meon-pro.com:80/live/kitchen/kitchen/8564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chuva" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/chuva-png-1.png" group-title="**| Portugal |**", Chuva
-http://meon-pro.com:80/live/kitchen/kitchen/8567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chuva e Trovão" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/chuva-png-1.png" group-title="**| Portugal |**", Chuva e Trovão
-http://meon-pro.com:80/live/kitchen/kitchen/8562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Praia" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fundo-praia-png.png" group-title="**| Portugal |**", Praia
-http://meon-pro.com:80/live/kitchen/kitchen/8563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Relax music" tvg-logo="https://www.amandadeshong.com/wp-content/uploads/2018/09/Untitled-300x200.png" group-title="**| Portugal |**", Relax music
-http://meon-pro.com:80/live/kitchen/kitchen/8515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Piano Music Radio • Relax" tvg-logo="https://i.dlpng.com/static/png/147673_preview.png" group-title="**| Portugal |**", Piano Music Radio • Relax
-http://meon-pro.com:80/live/kitchen/kitchen/8516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Piano relax" tvg-logo="https://resources.tidal.com/images/2ffb6cb1/43c6/422d/8deb/4296c9774627/640x640.jpg" group-title="**| Portugal |**", Piano relax
-http://meon-pro.com:80/live/kitchen/kitchen/8561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beautiful Instrumental Music" tvg-logo="https://webstockreview.net/images/musician-clipart-instrumental-music-5.png" group-title="**| Portugal |**", Beautiful Instrumental Music
-http://meon-pro.com:80/live/kitchen/kitchen/8546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lareira" tvg-logo="https://i.ya-webdesign.com/images/stone-fireplace-png-6.png" group-title="**| Portugal |**", Lareira
-http://meon-pro.com:80/live/kitchen/kitchen/8559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soft Jazz: Fireplace" tvg-logo="https://i.pinimg.com/originals/56/2f/a8/562fa81be1259951ac5ab588b993baf0.png" group-title="**| Portugal |**", Soft Jazz: Fireplace
-http://meon-pro.com:80/live/kitchen/kitchen/8560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love songs 80s and 90s" tvg-logo="https://lh3.googleusercontent.com/proxy/rDGJsUgM73469mvQLlzTkVSBuS_JGUPFkkcIIUg4yykYfsgcaSw--MKqrD4ZkuTOVpOXCHmkSX-g5YpN9HkDau3ysSFVBcz1GNzFN1VQ-YazBsPPtv2Ohte_OsBchQ" group-title="**| Portugal |**", Love songs 80s and 90s
-http://meon-pro.com:80/live/kitchen/kitchen/8565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Songs Collection" tvg-logo="https://store-images.s-microsoft.com/image/apps.30583.13547375661151820.39258b2a-71d1-4cc9-a8b2-542015a61ace.267fa21f-29ec-46fd-b4d2-310097a853e0?mode=scale&q=90&h=300&w=300" group-title="**| Portugal |**", Love Songs Collection
-http://meon-pro.com:80/live/kitchen/kitchen/8566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM - Matosinhos" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM - Matosinhos
-http://meon-pro.com:80/live/kitchen/kitchen/8668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM - Furadouro" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM - Furadouro
-http://meon-pro.com:80/live/kitchen/kitchen/8669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM - Torreira" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM - Torreira
-http://meon-pro.com:80/live/kitchen/kitchen/8670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM -Mira" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM -Mira
-http://meon-pro.com:80/live/kitchen/kitchen/8671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM - Nazaré" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM - Nazaré
-http://meon-pro.com:80/live/kitchen/kitchen/8673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM - Peniche" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM - Peniche
-http://meon-pro.com:80/live/kitchen/kitchen/8674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM  - Lagide" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", CAM  - Lagide
-http://meon-pro.com:80/live/kitchen/kitchen/8675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM-VILAMOURA" tvg-logo="" group-title="**| Portugal |**", CAM-VILAMOURA
-http://meon-pro.com:80/live/kitchen/kitchen/8677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM-PRAIA DA ROCHA" tvg-logo="" group-title="**| Portugal |**", CAM-PRAIA DA ROCHA
-http://meon-pro.com:80/live/kitchen/kitchen/8678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM-CARCAVELOS" tvg-logo="" group-title="**| Portugal |**", CAM-CARCAVELOS
-http://meon-pro.com:80/live/kitchen/kitchen/8679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM-PRAIA DO GUINCHO/CASCAIS" tvg-logo="" group-title="**| Portugal |**", CAM-PRAIA DO GUINCHO/CASCAIS
-http://meon-pro.com:80/live/kitchen/kitchen/8680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAM-MADEIRA" tvg-logo="" group-title="**| Portugal |**", CAM-MADEIRA
-http://meon-pro.com:80/live/kitchen/kitchen/8681.m3u8
-#EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality - Câmara 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608" group-title="**| Portugal |**", TVI Reality - Câmara 4
-http://meon-pro.com:80/live/kitchen/kitchen/4361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Orbital Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/orbital.png" group-title="Radios", Orbital Radio
-http://meon-pro.com:80/live/kitchen/kitchen/1254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Comercial" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/radio_comecial_85x70.jpg" group-title="Radios", Rádio Comercial
-http://meon-pro.com:80/live/kitchen/kitchen/1388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 93.5" tvg-logo="https://i.ytimg.com/vi/rURvL4j5GaM/maxresdefault.jpg" group-title="Radios", Radio 93.5
-http://meon-pro.com:80/live/kitchen/kitchen/1371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega Hits" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/megahits_85x70.jpg" group-title="Radios", Mega Hits
-http://meon-pro.com:80/live/kitchen/kitchen/1256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cidade FM" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png" group-title="Radios", Cidade FM
-http://meon-pro.com:80/live/kitchen/kitchen/1391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="http://meon-pro.com:80/images/276e7fbe0c15173cc4e378b82e2577c2.jpg" group-title="Radios", RFM
-http://meon-pro.com:80/live/kitchen/kitchen/1255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M80" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/m80_85x70.jpg" group-title="Radios", M80
-http://meon-pro.com:80/live/kitchen/kitchen/1379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena1_85x70.jpg" group-title="Radios", Antena 1
-http://meon-pro.com:80/live/kitchen/kitchen/1373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 2" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena2_85x70.jpg" group-title="Radios", Antena 2
-http://meon-pro.com:80/live/kitchen/kitchen/1372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena3_85x70.jpg" group-title="Radios", Antena 3
-http://meon-pro.com:80/live/kitchen/kitchen/1374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSF" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png" group-title="Radios", TSF
-http://meon-pro.com:80/live/kitchen/kitchen/1380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem POP" tvg-logo="https://static.radio.pt/images/broadcasts/27/e6/34288/1/c175.png" group-title="Radios", Radio Jovem POP
-http://meon-pro.com:80/live/kitchen/kitchen/1828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al!ive FM" tvg-logo="http://img.radios.com.br/radio/lg/radio27128_1439401686.jpg" group-title="Radios", Al!ive FM
-http://meon-pro.com:80/live/kitchen/kitchen/2195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nova Era" tvg-logo="http://i.imgur.com/LWTUgSC.png" group-title="Radios", Nova Era
-http://meon-pro.com:80/live/kitchen/kitchen/1381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radar" tvg-logo="https://static.radio.pt/images/broadcasts/b1/c5/18918/1/c175.png" group-title="Radios", Radar
-http://meon-pro.com:80/live/kitchen/kitchen/1383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oxigenio" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/oxigenio_85x70.jpg" group-title="Radios", Oxigenio
-http://meon-pro.com:80/live/kitchen/kitchen/1384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mallorca Sunshine Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s184797q.png" group-title="Radios", Mallorca Sunshine Radio
-http://meon-pro.com:80/live/kitchen/kitchen/1377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="80s RFM" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Radios", 80s RFM
-http://meon-pro.com:80/live/kitchen/kitchen/1378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Vibe of Vegas" tvg-logo="https://cdn-radiotime-logos.tunein.com/s140762q.png" group-title="Radios", The Vibe of Vegas
-http://meon-pro.com:80/live/kitchen/kitchen/2198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Renascença" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/a52CYvfFmS.png" group-title="Radios", Renascença
-http://meon-pro.com:80/live/kitchen/kitchen/1382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santiago 98.0 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio8939_1563375137.jpg" group-title="Radios", Santiago 98.0 FM
-http://meon-pro.com:80/live/kitchen/kitchen/3250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Noite FM" tvg-logo="https://top-radio.org/wp-content/uploads/logo/4dsquNKUme.jpg" group-title="Radios", Noite FM
-http://meon-pro.com:80/live/kitchen/kitchen/1387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1 - Fado" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/11/Antena_1_Fado.png/revision/latest?cb=20161027145913" group-title="Radios", Antena 1 - Fado
-http://meon-pro.com:80/live/kitchen/kitchen/1830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Smooth FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/smooth.png" group-title="Radios", Smooth FM
-http://meon-pro.com:80/live/kitchen/kitchen/1827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oceano Pacífico" tvg-logo="https://static.radio.net/images/broadcasts/1a/c0/18780/c175.png" group-title="Radios", Oceano Pacífico
-http://meon-pro.com:80/live/kitchen/kitchen/2176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="102.7 KIIS FM" tvg-logo="https://static.radio.net/images/broadcasts/b9/c6/37042/1/c175.png" group-title="Radios", 102.7 KIIS FM
-http://meon-pro.com:80/live/kitchen/kitchen/2173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIM" tvg-logo="https://img.radios.com.br/radio/lg/radio25303_1512219661.jpg" group-title="Radios", SIM
-http://meon-pro.com:80/live/kitchen/kitchen/2177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zig Zag" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qwqubzer9gzw.png" group-title="Radios", Zig Zag
-http://meon-pro.com:80/live/kitchen/kitchen/2174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Barcelos  FM" tvg-logo="https://static.radio.net/images/broadcasts/81/e6/16912/c175.png" group-title="Radios", Rádio Barcelos  FM
-http://meon-pro.com:80/live/kitchen/kitchen/2200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Placard  FM" tvg-logo="https://static.radio.pt/images/broadcasts/05/d1/36644/c300.png" group-title="Radios", Rádio Placard  FM
-http://meon-pro.com:80/live/kitchen/kitchen/2203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Onda Viva FM" tvg-logo="https://static-media.streema.com/media/cache/24/68/246872c6fbe305b811b721b369130734.jpg" group-title="Radios", Rádio Onda Viva FM
-http://meon-pro.com:80/live/kitchen/kitchen/2207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Horizonte FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/53KPHjpgcg.png" group-title="Radios", Rádio Horizonte FM
-http://meon-pro.com:80/live/kitchen/kitchen/2204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Amália 92.0 FM" tvg-logo="https://lh3.googleusercontent.com/proxy/aVx_y8_w_shHYWgoeErwgr2dd0HRieB9F6O9jpKwS8FaS78eyJ1D8NXQSS0r0RjNCVVoV5q6eQ5ZO0LZpnwvmwdvSW8VNc1n25Wq-uYyEpK_C7StdJONOg" group-title="Radios", Rádio Amália 92.0 FM
-http://meon-pro.com:80/live/kitchen/kitchen/3237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE FM Paris" tvg-logo="https://static.radio.net/images/broadcasts/ab/a0/33917/c175.png" group-title="Radios", TRACE FM Paris
-http://meon-pro.com:80/live/kitchen/kitchen/3239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Diana FM 94.1" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radios", Rádio Diana FM 94.1
-http://meon-pro.com:80/live/kitchen/kitchen/3240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Festival do Grande Porto" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/zAPHUHxTtX.png" group-title="Radios", Rádio Festival do Grande Porto
-http://meon-pro.com:80/live/kitchen/kitchen/3241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOP 80 - Radio hits" tvg-logo="https://static.radio.pt/images/broadcasts/cc/94/18978/c175.png" group-title="Radios", TOP 80 - Radio hits
-http://meon-pro.com:80/live/kitchen/kitchen/3242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Absolute Trance" tvg-logo="https://cdn-profiles.tunein.com/s306579/images/logog.png" group-title="Radios", Radio Absolute Trance
-http://meon-pro.com:80/live/kitchen/kitchen/3247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Fundação - Guimarães" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vrUxmS4WvW.png" group-title="Radios", Rádio Fundação - Guimarães
-http://meon-pro.com:80/live/kitchen/kitchen/3248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Portuguesa do Var" tvg-logo="https://static.radio.pt/images/broadcasts/7e/21/18050/c175.png" group-title="Radios", Radio Portuguesa do Var
-http://meon-pro.com:80/live/kitchen/kitchen/3252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio TOP 80" tvg-logo="https://static.radio.pt/images/broadcasts/91/28/122152/1/c175.png" group-title="Radios", Radio TOP 80
-http://meon-pro.com:80/live/kitchen/kitchen/3255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Valdevez 100.8" tvg-logo="http://www.radiovaldevez.pt/wp-content/uploads/2014/11/radioval.png" group-title="Radios", Radio Valdevez 100.8
-http://meon-pro.com:80/live/kitchen/kitchen/3253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Meo Sudoeste" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/swtmn-lisboa.png" group-title="Radios", Rádio Meo Sudoeste
-http://meon-pro.com:80/live/kitchen/kitchen/2210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio - Amor 95.3 Mexico" tvg-logo="https://1.bp.blogspot.com/-rFYJU2_0pz0/WdlD7rIZN1I/AAAAAAAAAq8/AwEstanTfq4_ow4RJgHJQmcZUemery5EwCKgBGAs/s1600/Amor_FM.png" group-title="Radios", Radio - Amor 95.3 Mexico
-http://meon-pro.com:80/live/kitchen/kitchen/3266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio - Blue Marlin Ibiza" tvg-logo="https://static.radio.pt/images/broadcasts/f5/df/10003/c175.png" group-title="Radios", Radio - Blue Marlin Ibiza
-http://meon-pro.com:80/live/kitchen/kitchen/3262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oldies FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5quVH5dJaP.png" group-title="Radios", Oldies FM
-http://meon-pro.com:80/live/kitchen/kitchen/3271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio - Love Classics" tvg-logo="https://static.radio.pt/images/broadcasts/e8/4c/35466/c300.png" group-title="Radios", Radio - Love Classics
-http://meon-pro.com:80/live/kitchen/kitchen/3270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Alfa 91.3 - Mexico" tvg-logo="https://img.radios.com.br/radio/xl/radio4845_1486748063.jpg" group-title="Radios", Radio Alfa 91.3 - Mexico
-http://meon-pro.com:80/live/kitchen/kitchen/3265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolitana Brasil [Top 50 Br]" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/metropolitana-online.png" group-title="Radios", Radio Metropolitana Brasil [Top 50 Br]
-http://meon-pro.com:80/live/kitchen/kitchen/3269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Torres Novas" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/VUrdJgvhEQ.jpg" group-title="Radios", Radio Torres Novas
-http://meon-pro.com:80/live/kitchen/kitchen/3257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Magic FM Club 80s" tvg-logo="http://static.radio.net/images/broadcasts/06/b0/40261/2/c300.png" group-title="Radios", Magic FM Club 80s
-http://meon-pro.com:80/live/kitchen/kitchen/3273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Cidade Hoje" tvg-logo="https://img.radios.com.br/radio/xl/radio5877_1541535727.jpg" group-title="Radios", Radio Cidade Hoje
-http://meon-pro.com:80/live/kitchen/kitchen/3279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Ondas do Lima" tvg-logo="https://cdn-radiotime-logos.tunein.com/s48681g.png" group-title="Radios", Radio Ondas do Lima
-http://meon-pro.com:80/live/kitchen/kitchen/3278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="538 IBIZA" tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/538-ibiza.jpg" group-title="Radios", 538 IBIZA
-http://meon-pro.com:80/live/kitchen/kitchen/3277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio - Absolute 90's" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/6.png?ver=1463741192" group-title="Radios", Radio - Absolute 90's
-http://meon-pro.com:80/live/kitchen/kitchen/3287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio - Samba Rock" tvg-logo="https://www.phonostar.de/images/auto_created/1fm184x184.png" group-title="Radios", Radio - Samba Rock
-http://meon-pro.com:80/live/kitchen/kitchen/3286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Amor Portugal" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qdHPHykr8x.png" group-title="Radios", Rádio Amor Portugal
-http://meon-pro.com:80/live/kitchen/kitchen/5503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 - Classic Italia" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wYBJZXPMxh.png" group-title="Radios", RTL 102.5 - Classic Italia
-http://meon-pro.com:80/live/kitchen/kitchen/5524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss FM - Mallorca (classic)" tvg-logo="http://www.listenradios.com/en/wp-content/uploads/2016/01/Kiss-FM.jpg" group-title="Radios", Kiss FM - Mallorca (classic)
-http://meon-pro.com:80/live/kitchen/kitchen/5505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Som da Baixa Setubal - Radio" tvg-logo="https://image.winudf.com/v2/image/Y29tLkVWU1BvcnR1Z2FsLlNvbWRhQmFpeGFTZXR1YmFsX2ljb25fMTUzMTAzODQwN18wNzY/icon.png?w=170&fakeurl=1&type=.png" group-title="Radios", Som da Baixa Setubal - Radio
-http://meon-pro.com:80/live/kitchen/kitchen/5506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classic FM - UK" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="Radios", Classic FM - UK
-http://meon-pro.com:80/live/kitchen/kitchen/5517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Limite - Porto" tvg-logo="https://cdn-profiles.tunein.com/s84216/images/logoq.png" group-title="Radios", Radio Limite - Porto
-http://meon-pro.com:80/live/kitchen/kitchen/5521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Christmas Standards" tvg-logo="https://cdn-radiotime-logos.tunein.com/s89803q.png" group-title="Radios", Christmas Standards
-http://meon-pro.com:80/live/kitchen/kitchen/5512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jazz FM - UK" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qfCaS5rWTd.png" group-title="Radios", Jazz FM - UK
-http://meon-pro.com:80/live/kitchen/kitchen/5515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jazz FM -  London" tvg-logo="https://cdn-radiotime-logos.tunein.com/s45300q.png" group-title="Radios", Jazz FM -  London
-http://meon-pro.com:80/live/kitchen/kitchen/5514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/n7E4K8hQ2e.png" group-title="Radios", Kiss FM
-http://meon-pro.com:80/live/kitchen/kitchen/5520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bass Boosterz" tvg-logo="https://pbs.twimg.com/profile_images/921206904432594950/DxcR1WI8_400x400.jpg" group-title="Radios", Bass Boosterz
-http://meon-pro.com:80/live/kitchen/kitchen/5511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Miami Beach Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7drt79sudps2.png" group-title="Radios", Miami Beach Radio
-http://meon-pro.com:80/live/kitchen/kitchen/5510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRJ - Paris" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PzFcW6UF6J.png" group-title="Radios", NRJ - Paris
-http://meon-pro.com:80/live/kitchen/kitchen/5509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Florida Brazil" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6fpvujgmwdes.png" group-title="Radios", Radio Florida Brazil
-http://meon-pro.com:80/live/kitchen/kitchen/5513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Ritmos - Folclore" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2xPT9kEV9M.png" group-title="Radios", Rádio Ritmos - Folclore
-http://meon-pro.com:80/live/kitchen/kitchen/5504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Super Bock Super Rock" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/jagh6qh9sbyw.jpeg" group-title="Radios", Rádio Super Bock Super Rock
-http://meon-pro.com:80/live/kitchen/kitchen/5523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reggae Trade Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/08/1.FM-Reggae-Trade-Radio.jpg" group-title="Radios", Reggae Trade Radio
-http://meon-pro.com:80/live/kitchen/kitchen/5507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BEAT CHICAGO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ajbadt9qtt64.png" group-title="Radios", THE BEAT CHICAGO
-http://meon-pro.com:80/live/kitchen/kitchen/5519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jazz24" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34682q.png" group-title="Radios", Jazz24
-http://meon-pro.com:80/live/kitchen/kitchen/5516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Punto 7 Los Ángeles - Latino" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wrfyvk76vsfg.png" group-title="Radios", Radio Punto 7 Los Ángeles - Latino
-http://meon-pro.com:80/live/kitchen/kitchen/5518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio UK" tvg-logo="https://static.radio.net/images/broadcasts/54/d4/38755/1/c175.png" group-title="Radios", Virgin Radio UK
-http://meon-pro.com:80/live/kitchen/kitchen/7991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio funchal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhtVF6BUDDfA_KglITZcD14gGi5jGRMeqe3Mo8BTWm4Dlh1lWj" group-title="Radios", Radio funchal
-http://meon-pro.com:80/live/kitchen/kitchen/5778.m3u8
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EstudoEmCasa" tvg-logo="https://i.imgur.com/i82gNUD.jpg" group-title="PORTUGAL",EstudoEmCasa
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/44688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COVID-19 INFORMACAO" tvg-logo="https://i.imgur.com/rXO0l6R.jpg" group-title="PORTUGAL",COVID-19 INFORMACAO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/44687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus NEWS" tvg-logo="https://i.imgur.com/GZfCmvz.jpg" group-title="PORTUGAL",Coronavirus NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/41384.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_1_85x70.jpg" group-title="PORTUGAL",RTP 1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6638.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_hd_85x70.jpg" group-title="PORTUGAL",RTP 1 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6639.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_2_85x70.jpg" group-title="PORTUGAL",RTP 2
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6640.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="PORTUGAL",RTP 2 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6641.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sic_85x70.jpg" group-title="PORTUGAL",SIC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6642.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="PORTUGAL",SIC HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6643.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi_85x70.jpg" group-title="PORTUGAL",TVI
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6644.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="PORTUGAL",TVI HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6645.m3u8
+#EXTINF:-1 tvg-id="Rtp Internacional" tvg-name="RTP INTERNACIONAL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_internacional.jpg" group-title="PORTUGAL",RTP INTERNACIONAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6646.m3u8
+#EXTINF:-1 tvg-id="Porto Canal" tvg-name="PORTO CANAL" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/porto_canal_85x70.jpg" group-title="PORTUGAL",PORTO CANAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6648.m3u8
+#EXTINF:-1 tvg-id="Porto Canal" tvg-name="PORTO CANAL HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/porto_canal_85x70.jpg" group-title="PORTUGAL",PORTO CANAL HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/14436.m3u8
+#EXTINF:-1 tvg-id="RTP Africa" tvg-name="RTP AFRICA" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_africa_85x70.jpg" group-title="PORTUGAL",RTP AFRICA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6649.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP MADEIRA" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtpmadeira_85x70.jpg" group-title="PORTUGAL",RTP MADEIRA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6650.m3u8
+#EXTINF:-1 tvg-id="RTP ACORES" tvg-name="RTP ACORES" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/RTP_Acores_85x70.jpg" group-title="PORTUGAL",RTP ACORES
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6651.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria" tvg-name="RTP MEMORIA" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_memoria_85x70.jpg" group-title="PORTUGAL",RTP MEMORIA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6652.m3u8
+#EXTINF:-1 tvg-id="Canal Q" tvg-name="CANAL Q" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canal_q_85x70.jpg" group-title="PORTUGAL",CANAL Q
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6653.m3u8
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-3-xs.gif" group-title="PORTUGAL",RTP 3
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6654.m3u8
+#EXTINF:-1 tvg-id="SIC NOTICIAS" tvg-name="SIC NOTICIAS" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sic_noticias_85x70.jpg" group-title="PORTUGAL",SIC NOTICIAS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6656.m3u8
+#EXTINF:-1 tvg-id="SIC NOTICIAS" tvg-name="SIC NOTICIAS HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-noticias-hd-xs.gif" group-title="PORTUGAL",SIC NOTICIAS HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6657.m3u8
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-24-xs.gif" group-title="PORTUGAL",TVI 24
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6658.m3u8
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="PORTUGAL",TVI 24 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8390.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cmtv_85x70.jpg" group-title="PORTUGAL",CMTV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6659.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cmtv_85x70.jpg" group-title="PORTUGAL",CMTV HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL LUX" tvg-logo="https://www.revuesangfroid.fr/wp-content/uploads/2016/03/logo-rtl.jpg" group-title="PORTUGAL",RTL LUX
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/41426.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/artv_85x70.jpg" group-title="PORTUGAL",ARTV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6661.m3u8
+#EXTINF:-1 tvg-id="REGIOES TV" tvg-name="REGIOES TV" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtv_85x70.jpg" group-title="PORTUGAL",REGIOES TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6662.m3u8
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE INTERNACIONAL" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvei_85x70.jpg" group-title="PORTUGAL",TVE INTERNACIONAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6663.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/bbc_entertainment_85x70.jpg" group-title="PORTUGAL",BBC ENTERTAINMENT
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6664.m3u8
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/tv_galicia_85x70.jpg" group-title="PORTUGAL",TV GALICIA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6665.m3u8
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/GHB5oQu.png" group-title="PORTUGAL",BFM TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43645.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="FRANCE 24" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/france_24_85x70.jpg" group-title="PORTUGAL",FRANCE 24
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6666.m3u8
+#EXTINF:-1 tvg-id="TVE 24H" tvg-name="TVE 24H" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tve-24-xs.gif" group-title="PORTUGAL",TVE 24H
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6667.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 MONDE" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/tv5monde_85x70.jpg" group-title="PORTUGAL",TV5 MONDE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6668.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="DEUTSCHE WELLE" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-dw-xs.gif" group-title="PORTUGAL",DEUTSCHE WELLE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6669.m3u8
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EURONEWS" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/euronews_85x70.jpg" group-title="PORTUGAL",EURONEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6670.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cnn-xs.gif" group-title="PORTUGAL",CNN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6671.m3u8
+#EXTINF:-1 tvg-id="CNBC Europe" tvg-name="CNBC EUROPE" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/cnbc_85x70.jpg" group-title="PORTUGAL",CNBC EUROPE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="i24 NEWS" tvg-logo="https://i.imgur.com/XNYro6Q.jpg" group-title="PORTUGAL",i24 NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43642.m3u8
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-name="SKY NEWS" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/skynews_85x70.jpg" group-title="PORTUGAL",SKY NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6674.m3u8
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX NEWS" tvg-logo="https://discriminationandsexualharassmentlawyers.com/wp-content/uploads/2017/09/Foxnews.png" group-title="PORTUGAL",FOX NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6675.m3u8
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-bbc-world-news-xs.gif" group-title="PORTUGAL",BBC WORLD NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6676.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="BLOOMBERG" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-bloomerang-xs.gif" group-title="PORTUGAL",BLOOMBERG
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6677.m3u8
+#EXTINF:-1 tvg-id="TVI FICCAO" tvg-name="TVI FICCAO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_ficcao_pt.jpg" group-title="PORTUGAL",TVI FICCAO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6678.m3u8
+#EXTINF:-1 tvg-id="TVI FICCAO" tvg-name="TVI FICCAO HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_ficcao_pt.jpg" group-title="PORTUGAL",TVI FICCAO HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/44752.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sic_mulher_85x70.jpg" group-title="PORTUGAL",SIC MULHER
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6679.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicmulherhd-85x70.jpg" group-title="PORTUGAL",SIC MULHER HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6680.m3u8
+#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC CARAS" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sic_caras_85x70.jpg" group-title="PORTUGAL",SIC CARAS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6681.m3u8
+#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC CARAS HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/siccarashd-85x70.jpg" group-title="PORTUGAL",SIC CARAS HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6682.m3u8
+#EXTINF:-1 tvg-id="SIC Radical" tvg-name="SIC RADICAL" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sic_radical_85x70.jpg" group-title="PORTUGAL",SIC RADICAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6683.m3u8
+#EXTINF:-1 tvg-id="SIC Radical" tvg-name="SIC RADICAL HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicradicalhd-85x70.jpg" group-title="PORTUGAL",SIC RADICAL HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6684.m3u8
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvireality_85x70.jpg" group-title="PORTUGAL",TVI REALITY
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6685.m3u8
+#EXTINF:-1 tvg-id="localvisao" tvg-name="LOCALVISAO" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/localvisao_hd_85x70.jpg" group-title="PORTUGAL",LOCALVISAO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6686.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tlc_85x70.jpg" group-title="PORTUGAL",TLC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6687.m3u8
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="QYOU" tvg-logo="https://www.platformcomms.com/wp-content/uploads/platform-communications-client-logo-Qyou.jpg" group-title="PORTUGAL",QYOU
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6655.m3u8
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" group-title="PORTUGAL",CBS REALITY
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6688.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E ENTERTAINMENT" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-entertainment-xs.gif" group-title="PORTUGAL",E ENTERTAINMENT
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6689.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E  ENTERTAINMENT HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-entertainment-hd-xs.gif" group-title="PORTUGAL",E  ENTERTAINMENT HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6690.m3u8
+#EXTINF:-1 tvg-id="Crime   Investigacao" tvg-name="CRIME INVESTIGATION" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/ci_85x70.jpg" group-title="PORTUGAL",CRIME INVESTIGATION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6691.m3u8
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="SPORT TV +" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sporttv+_85x70.jpg" group-title="PORTUGAL",SPORT TV +
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6692.m3u8
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="SPORT TV + HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sporttv+hd_85x70.jpg" group-title="PORTUGAL",SPORT TV + HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6693.m3u8
+#EXTINF:-1 tvg-id="Sport tv 1" tvg-name="SPORT TV 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-1-xs.gif" group-title="PORTUGAL",SPORT TV 1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6695.m3u8
+#EXTINF:-1 tvg-id="Sport tv 1" tvg-name="SPORT TV 1 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-1-hd-xs.gif" group-title="PORTUGAL",SPORT TV 1 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6696.m3u8
+#EXTINF:-1 tvg-id="Sport tv 1" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-1-hd-xs.gif" group-title="PORTUGAL",SPORT TV 1 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6697.m3u8
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="SPORT TV 2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-2-xs.gif" group-title="PORTUGAL",SPORT TV 2
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6698.m3u8
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="SPORT TV 2 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-2-hd-xs.gif" group-title="PORTUGAL",SPORT TV 2 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6699.m3u8
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-2-hd-xs.gif" group-title="PORTUGAL",SPORT TV 2 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6700.m3u8
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="SPORT TV 3" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-3-xs.gif" group-title="PORTUGAL",SPORT TV 3
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6701.m3u8
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="SPORT TV 3 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-3-hd-xs.gif" group-title="PORTUGAL",SPORT TV 3 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6702.m3u8
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-3-hd-xs.gif" group-title="PORTUGAL",SPORT TV 3 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6703.m3u8
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="SPORT TV 4" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-4-xs.gif" group-title="PORTUGAL",SPORT TV 4
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6704.m3u8
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="SPORT TV 4 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-4-hd-xs.gif" group-title="PORTUGAL",SPORT TV 4 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6705.m3u8
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="SPORT TV 4 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-4-hd-xs.gif" group-title="PORTUGAL",SPORT TV 4 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6706.m3u8
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="SPORT TV 5" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-5-xs.gif" group-title="PORTUGAL",SPORT TV 5
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6707.m3u8
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="SPORT TV 5 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-5-hd-xs.gif" group-title="PORTUGAL",SPORT TV 5 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6708.m3u8
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="SPORT TV 5 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-5-hd-xs.gif" group-title="PORTUGAL",SPORT TV 5 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6709.m3u8
+#EXTINF:-1 tvg-id="NBA" tvg-name="Sport TV NBA" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="PORTUGAL",Sport TV NBA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43978.m3u8
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nba-tv-xs.gif" group-title="PORTUGAL",NBA TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6711.m3u8
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-xs.gif" group-title="PORTUGAL",BTV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6712.m3u8
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-hd-xs.gif" group-title="PORTUGAL",BTV HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6713.m3u8
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-hd-xs.gif" group-title="PORTUGAL",BTV FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6714.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-1.gif" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6715.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-1.gif" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6716.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-1.gif" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6717.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-2.gif" group-title="PORTUGAL",ELEVEN SPORTS 2
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6718.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-2.gif" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6719.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-2.gif" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6720.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-3.gif" group-title="PORTUGAL",ELEVEN SPORTS 3
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6721.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-3.gif" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6722.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-3.gif" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6723.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-4.gif" group-title="PORTUGAL",ELEVEN SPORTS 4
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6724.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-4.gif" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6725.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-4.gif" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6726.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-5.gif" group-title="PORTUGAL",ELEVEN SPORTS 5
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6727.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-5.gif" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6728.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-5.gif" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6729.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-6.gif" group-title="PORTUGAL",ELEVEN SPORTS 6
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6730.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-6.gif" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6731.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-6.gif" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6732.m3u8
+#EXTINF:-1 tvg-id="Sporting TV" tvg-name="SPORTING TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporting-tv-xs.gif" group-title="PORTUGAL",SPORTING TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6733.m3u8
+#EXTINF:-1 tvg-id="Sporting TV" tvg-name="SPORTING TV HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporting-hd-xs.gif" group-title="PORTUGAL",SPORTING TV HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6734.m3u8
+#EXTINF:-1 tvg-id="Canal 11" tvg-name="CANAL 11" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/11_85x70.jpg" group-title="PORTUGAL",CANAL 11
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6735.m3u8
+#EXTINF:-1 tvg-id="Canal 11" tvg-name="CANAL 11 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/11_85x70.jpg" group-title="PORTUGAL",CANAL 11 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6736.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_bola_tv_pt.jpg" group-title="PORTUGAL",A BOLA TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6737.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-eurosport-1-xs.gif" group-title="PORTUGAL",EUROSPORT 1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6739.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-eurosport-1-xs.gif" group-title="PORTUGAL",EUROSPORT 1 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6740.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/eurosport_2_85x70.jpg" group-title="PORTUGAL",EUROSPORT 2 HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6741.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_internacional.jpg" group-title="PORTUGAL",PFC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6742.m3u8
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="MOTORVISION" tvg-logo="https://i.pinimg.com/originals/fb/62/4c/fb624cfa2264c4b71a2f8dadad6339cc.png" group-title="PORTUGAL",MOTORVISION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6743.m3u8
+#EXTINF:-1 tvg-id="Kombat Sport" tvg-name="KOMBAT SPORT" tvg-logo="https://i.pinimg.com/236x/2a/c1/70/2ac170641127cf01ea1ef098bf7ef11c.jpg" group-title="PORTUGAL",KOMBAT SPORT
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6744.m3u8
+#EXTINF:-1 tvg-id="Fuel TV HD" tvg-name="FUEL TV HD" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/fuel_tv_85x70.jpg" group-title="PORTUGAL",FUEL TV HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="https://i.imgur.com/F8SeHfF.png" group-title="PORTUGAL",Combate
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/36425.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-toros-xs.gif" group-title="PORTUGAL",TOROS TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6747.m3u8
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="CACA E PESCA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-caca-pesca-xs.gif" group-title="PORTUGAL",CACA E PESCA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6749.m3u8
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CACAVISION" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-caca-vision-xs.gif" group-title="PORTUGAL",CACAVISION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6751.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="RED BULL TV" tvg-logo="https://cloud.addictivetips.com/wp-content/uploads/2018/02/Red-Bull-TV-Logo.png" group-title="PORTUGAL",RED BULL TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6752.m3u8
+#EXTINF:-1 tvg-id="TVCine 1" tvg-name="TVCINE TOP" tvg-logo="https://i.imgur.com/Q3OWR8P.png" group-title="PORTUGAL",TVCINE TOP
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6755.m3u8
+#EXTINF:-1 tvg-id="TVCine 1" tvg-name="TVCINE TOP HD" tvg-logo="https://i.imgur.com/cjpJFUM.png" group-title="PORTUGAL",TVCINE TOP HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6756.m3u8
+#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCINE EDITION" tvg-logo="https://i.imgur.com/OzOE7mY.png" group-title="PORTUGAL",TVCINE EDITION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6757.m3u8
+#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCINE EDITION HD" tvg-logo="https://i.imgur.com/OQN2yis.png" group-title="PORTUGAL",TVCINE EDITION HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6758.m3u8
+#EXTINF:-1 tvg-id="TVCine 3" tvg-name="TVCINE EMOTION" tvg-logo="https://i.imgur.com/HUx6175.png" group-title="PORTUGAL",TVCINE EMOTION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6759.m3u8
+#EXTINF:-1 tvg-id="TVCine 3" tvg-name="TVCINE EMOTION HD" tvg-logo="https://i.imgur.com/iL4S9kS.png" group-title="PORTUGAL",TVCINE EMOTION HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6760.m3u8
+#EXTINF:-1 tvg-id="TVCine 4" tvg-name="TVCINE ACTION" tvg-logo="https://i.imgur.com/z6edqYv.png" group-title="PORTUGAL",TVCINE ACTION
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6761.m3u8
+#EXTINF:-1 tvg-id="TVCine 4" tvg-name="TVCINE ACTION HD" tvg-logo="https://i.imgur.com/IJyCf0f.png" group-title="PORTUGAL",TVCINE ACTION HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6762.m3u8
+#EXTINF:-1 tvg-id="TV Series" tvg-name="TVSERIES HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvseries/logo/medium_logo.jpg" group-title="PORTUGAL",TVSERIES HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43641.m3u8
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canal_hollywood_85x70.jpg" group-title="PORTUGAL",HOLLYWOOD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6763.m3u8
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canal_hollywood_hd_85x70.jpg" group-title="PORTUGAL",HOLLYWOOD HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6764.m3u8
+#EXTINF:-1 tvg-id="cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cinemundo-xs.gif" group-title="PORTUGAL",CINEMUNDO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6765.m3u8
+#EXTINF:-1 tvg-id="cinemundo" tvg-name="CINEMUNDO HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cinemundo-hd-xs.gif" group-title="PORTUGAL",CINEMUNDO HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6766.m3u8
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX MOVIES" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-movies-xs.gif" group-title="PORTUGAL",FOX MOVIES
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6767.m3u8
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX MOVIES HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-movies-hd-xs.gif" group-title="PORTUGAL",FOX MOVIES HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6768.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-amc-xs.gif" group-title="PORTUGAL",AMC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6769.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-amc-hd-xs.gif" group-title="PORTUGAL",AMC HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6770.m3u8
+#EXTINF:-1 tvg-id="NOS Studios SD" tvg-name="NOS STUDIOS" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canalnos_85x70.jpg" group-title="PORTUGAL",NOS STUDIOS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6771.m3u8
+#EXTINF:-1 tvg-id="NOS Studios HD" tvg-name="NOS STUDIOS HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canalnos_85x70.jpg" group-title="PORTUGAL",NOS STUDIOS HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6772.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-xs.gif" group-title="PORTUGAL",AXN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6776.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-hd-xs.gif" group-title="PORTUGAL",AXN HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6777.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-white-xs.gif" group-title="PORTUGAL",AXN WHITE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6778.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-white-hd-xs.gif" group-title="PORTUGAL",AXN WHITE HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6779.m3u8
+#EXTINF:-1 tvg-id="---------------Portugal---------------" tvg-name="AXN MOVIES" tvg-logo="https://i.imgur.com/hHdqBQR.gif" group-title="PORTUGAL",AXN MOVIES
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6780.m3u8
+#EXTINF:-1 tvg-id="---------------Portugal---------------" tvg-name="AXN MOVIES HD" tvg-logo="https://i.imgur.com/rtV53Q7.gif" group-title="PORTUGAL",AXN MOVIES HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6781.m3u8
+#EXTINF:-1 tvg-id="FOX  HD" tvg-name="FOX" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-xs.gif" group-title="PORTUGAL",FOX
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6782.m3u8
+#EXTINF:-1 tvg-id="FOX  HD" tvg-name="FOX HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-hd-xs.gif" group-title="PORTUGAL",FOX HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6783.m3u8
+#EXTINF:-1 tvg-id="foxlife HD" tvg-name="FOX LIFE" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-life-xs.gif" group-title="PORTUGAL",FOX LIFE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6784.m3u8
+#EXTINF:-1 tvg-id="foxlife HD" tvg-name="FOX LIFE HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-life-hd-xs.gif" group-title="PORTUGAL",FOX LIFE HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6785.m3u8
+#EXTINF:-1 tvg-id="foxcomedy HD" tvg-name="FOX COMEDY" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-comedy-xs.gif" group-title="PORTUGAL",FOX COMEDY
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6786.m3u8
+#EXTINF:-1 tvg-id="foxcomedy HD" tvg-name="FOX COMEDY HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-comedy-hd-xs.gif" group-title="PORTUGAL",FOX COMEDY HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6787.m3u8
+#EXTINF:-1 tvg-id="FOXCrime HD" tvg-name="FOX CRIME" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-crime-xs.gif" group-title="PORTUGAL",FOX CRIME
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6788.m3u8
+#EXTINF:-1 tvg-id="FOXCrime HD" tvg-name="FOX CRIME HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-crime-hd-xs.gif" group-title="PORTUGAL",FOX CRIME HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6789.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-syfy-xs.gif" group-title="PORTUGAL",SYFY
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6790.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-syfy-xs.gif" group-title="PORTUGAL",SYFY HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6791.m3u8
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="EUROCHANNEL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurochannel_lam.jpg" group-title="PORTUGAL",EUROCHANNEL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6792.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-disney-channel-xs.gif" group-title="PORTUGAL",DISNEY CHANNEL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6793.m3u8
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-disney-junior-xs.gif" group-title="PORTUGAL",DISNEY JUNIOR
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6794.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cartoon-network-xs.gif" group-title="PORTUGAL",CARTOON NETWORK
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6795.m3u8
+#EXTINF:-1 tvg-id="Canal Panda" tvg-name="PANDA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-panda-xs.gif" group-title="PORTUGAL",PANDA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/37080.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nickelodeon_85x70.jpg" group-title="PORTUGAL",NICKELODEON
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6797.m3u8
+#EXTINF:-1 tvg-id="NickJunior" tvg-name="NICK JR" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nickjr_85x70.jpg" group-title="PORTUGAL",NICK JR
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="PORTUGAL",BOOMERANG
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/36427.m3u8
+#EXTINF:-1 tvg-id="Biggs" tvg-name="PANDA BIGGS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-biggs-xs.gif" group-title="PORTUGAL",PANDA BIGGS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6799.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sick-xs.gif" group-title="PORTUGAL",SIC K
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6800.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sick-hd-xs.gif" group-title="PORTUGAL",SIC K HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6801.m3u8
+#EXTINF:-1 tvg-id="Jim Jam" tvg-name="JIM JAM" tvg-logo="https://i.imgur.com/ZPiwALc.jpg" group-title="PORTUGAL",JIM JAM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6803.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-baby-tv-xs.gif" group-title="PORTUGAL",BABY TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6805.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-globo-xs.gif" group-title="PORTUGAL",GLOBO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6807.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-globo-hd-xs.gif" group-title="PORTUGAL",GLOBO HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6808.m3u8
+#EXTINF:-1 tvg-id="Globo now" tvg-name="GLOBO NOW" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-globo-now-xs.gif" group-title="PORTUGAL",GLOBO NOW
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6809.m3u8
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV RECORD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvrecord_hd_85x70.jpg" group-title="PORTUGAL",TV RECORD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6811.m3u8
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV RECORD HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvrecord_hd_85x70.jpg" group-title="PORTUGAL",TV RECORD HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6812.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-record-news-xs.gif" group-title="PORTUGAL",RECORD NEWS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC One HD" tvg-logo="https://www.pngkey.com/png/detail/306-3069252_bbc-one-1080-bbc-3-logo-png.png" group-title="PORTUGAL",BBC One HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/aljazeera_85x70.jpg" group-title="PORTUGAL",ALJAZEERA HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6814.m3u8
+#EXTINF:-1 tvg-id="TCV INTERNACIONAL" tvg-name="TV Cabo Verde" tvg-logo="https://dtudo1pouco.com/wp-content/uploads/TCV-Internacional.png" group-title="PORTUGAL",TV Cabo Verde
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/41931.m3u8
+#EXTINF:-1 tvg-id="TPA Internacional" tvg-name="TPA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tpa-xs.gif" group-title="PORTUGAL",TPA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/zap_85x70.jpg" group-title="PORTUGAL",ZAP VIVA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/36428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="https://i.imgur.com/VGfOG0U.jpg" group-title="PORTUGAL",TRT WORLD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43643.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK WORLD JAPAN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nhk-xs.gif" group-title="PORTUGAL",NHK WORLD JAPAN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 1 RUSSIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZgqKduSITcZJjoYqyAjqhU7-Qfd3cOIAGD-wpfefmmG3EJUr&s" group-title="PORTUGAL",CHANNEL 1 RUSSIA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6824.m3u8
+#EXTINF:-1 tvg-id="Nacional Geographic HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nat-geo-xs.gif" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6827.m3u8
+#EXTINF:-1 tvg-id="Nacional Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nat-geo-hd-xs.gif" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6828.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nat-geo-wild-xs.gif" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6829.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nat-geo-wild-hd-xs.gif" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6830.m3u8
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-history-xs.gif" group-title="PORTUGAL",HISTORIA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6831.m3u8
+#EXTINF:-1 tvg-id="Odisseia" tvg-name="ODISSEIA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-odisseia-xs.gif" group-title="PORTUGAL",ODISSEIA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6832.m3u8
+#EXTINF:-1 tvg-id="Odisseia" tvg-name="ODISSEIA HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-odisseia-hd-xs.gif" group-title="PORTUGAL",ODISSEIA HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6833.m3u8
+#EXTINF:-1 tvg-id="ID Investigation Discovery HD" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6834.m3u8
+#EXTINF:-1 tvg-id="Discover channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/discovery_channel_85x70.jpg" group-title="PORTUGAL",DISCOVERY CHANNEL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6835.m3u8
+#EXTINF:-1 tvg-id="Discover channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/discovery_channel_85x70.jpg" group-title="PORTUGAL",DISCOVERY CHANNEL HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6836.m3u8
+#EXTINF:-1 tvg-id="Blaze" tvg-name="BLAZE" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/blaze_85x70.jpg" group-title="PORTUGAL",BLAZE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6837.m3u8
+#EXTINF:-1 tvg-id="Blaze" tvg-name="BLAZE HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/blazehd_85x70.jpg" group-title="PORTUGAL",BLAZE HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saude" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/saudemais_85x70.jpg" group-title="PORTUGAL",Saude
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/36426.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="CASA E COZINHA" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAyVBMVEX/////Lk1Cz9nxxxNSK2BCQEM/PUA7OTwxLjIyLzP19fWk5eurnLHW8vRPbI0x0dz/Fj/0nSv+HkP+oKxJG1lB1d5SI1w4Njn909b/IE/xxQD445lRUFLxxxTt7O35zgdHHGLLy8t+fX7U1NTAv8CWlpeioaMqJyzc3NxmZWeNjI7k5ORdW118e3zQ0NFMSk2xsbFsam0gHCGdnJ4YFBrn9/qps8NJEFQ/AFCGhoZBaI5HEl4+AFn/ACz9oCG1tLURDBP85un4zZ9ERX9JAAAIAElEQVR4nO2a63rjthGG2WxxYnNqmxTbhMuWEknwaJKSc1DaRGnv/6I6AxAkrVj7rMzYkrvz+oekESCJn4eDwQyCgCAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiCIj4bv/nSO7z89x7V/89X47ItPHufrn3746nF+vPZvvhrnxfr8b398nK+u/Zuvxnqx4jo+/dC4rk9N9cmo8NTwGlgp1rblUkre3s2muOrAxA5xkLWbNnYmHBX105i01FKq5hjUMCR/qWtdzTqxWiM4Y4wLM4SjKTfamrQpBi0MulihnEmWbkjcSHzNuGkLI1T70tf8ZFaJ1WhURaMUunNq7Q2oINDGu4YziWJxDkJpxZiyThQz4aYJpkvOxOYqF/4U1ojVglYqyvu8lCCQdZsEtOKq7fuMaQYaolhHxTg43p0SmuGYRqC2Wd8PCmT8SMS6A2GkCzgJqCVTeNKBE3UuulfgSlasSjOFMS1rW7xZUxyb2SEF+2jEauE2qsbn6U7JDvRDIeL5fS+WOMzfiHeef1nLE7HCm14jV4gFjqV8WA+OxyMsdplmOvOmWDmx8NbUXT9mEyHcu3pSBIWcxdo2xpju+NzX/GSeLhZ4BS9PPg2cSW6nVz7AD7D4cS27fThOa6Yhd2oh1tFo+FOmCm6Up4tVSCZOV324xeR8Hw2jWEHOlV0AzZ2bNvvS8lVt9AYm75W5Vd/6/T2rmF55z4J7L20NphkqttOGaUiy8KyNdh9X6ei5rnYlv1fMKgAXs6aE3McsR5hjsMpdzJqmVWIWS/OyQlpubjTKrxBrEHM0v7uXRroUYlJiM66GIYCvj25VBH+bpsXL1dAwbSzyfvbOm2KFWLjKSbff20ISr/ApJE68cX6xl2Oe1WkhUS0I5phqHOU0LY6WeZYQh62l2IbBTbImgx8wg2/69Nga0MgGGlSCqypN+ghzUivWATyqDWFHyF3iigrBtCStHmbwhzFWHfv0xWX4MNaIFXZ2b6i0XepcdNqgRlrh1plHTqx6B4qICC12u1PjNhqmwQopIv5gNRyKID6Y++TldfggVm2kw8GVD2Cf3PiYXBlhTcIkg+a26pCiCTfbo6AFU67qoJqt4XrKP1KjpYE862ZrNivrWUlppJSmWWRGd4M1gZMchqG0GhbWpCovaJgzMBieB3UzlFPKHxQtiFUuamM3xupKaVhsi9N4/FsTjnpgiLfb31RTrX31FT0jVIO/ABLrAkisC/jsizN8/dO//vk4/772b74ab3/+8gy//OMca77P730ue+tGePvlHx7n739+8+7NO8/87N2bb9Z8Xyfl/RlJ2Pm3boT3iXWGVWJByi7PKPKet26ElxarU2pHYn0g6fF4rg5KYl3A/79YSVU2ZfWgphL3bdm0+bi9iZMZMOGDnZckW9gjDk2z8ZNRrCA4tk0z9AvR6j0OgkkFzLnubmidWAmTgnMuJJ/kCg9Gg01oM9grS3fKYzJcDV3M2imzKZSyk8euLIil6k7hZKX8bjpsjbaDojAzanfd4s0qsXKDlSms4HHfv4qZxuILlmCEwq5YaoQFy1zZfK9hSx/LqvbECLdTsSgYedPYJPIfx5mIDoKp1yvW0R5s6MoIG11yj6aws3WrqBG2mVPjoaQDUnWMqf1SLJBA8abD0pa2cyNbExRNZE2uad0JFD1qOmn/J69XLOze6AZDU93CU4PPKo0HGUCNsFf+sIhlC67EwgdiMYXrYoHO1OEQW27Gwl/dYLUZTXs8enNAJytKdLFRrJTZCTFj22DfRUD7IpXoFWJleu4tb7SteMbYwxhTg60EAX17OgS/wBbrUqyxaVao8XxENB2CiPXYRFNs7gSVs2elUtlhEj4/0wILi/K0hfkcrBAL7z1f0QvLYQDhwJ3mLvVezwdHBog39qoXYplxyUNTsXgMbLMWdUnk2AdB0JG9WEo7i0Sxmu1dclDqBYrRTxcLvIifto4fxOB6vtR8err0rHGcb2PDW14/0FnBjZUve7Z4GuAxsZT1qc1LtLGfLtZjZx2m0w1IKMZ2TlBg83rKD6YAP447zGL5pDR3YsGNvgjpe30iVrgQC0zPn9CuEmtxaMHxUCztxYIl0keyi8WaI3clZrF4BlR8FitR6pbFCs24ii2olldX+MNFG82El/UisfrlcS/s+09iMYlRnb0asay/eGXiqGk6exXz4auNcAlUCqpyfyUXiQUL6jwTV9fZs/Z5nmfi9YgFSx8X42athNTh4I71qdEXekwdapcHmCnyXCQWHp3wPmnT3Vcbs9wpEJ3HYZhGKBLqluP6XiZhuN3ggRrszC9PzVwqFh6d0E0SBvERW9qvdzWEGwO3hlrCthcex+N6pd3mKLBCEo4pOzoYjyxddalY7uOk5nbL/Z48a6PlTedZAQYKd64BTzb4kp4//oBH5GN33XYnDKCjXShW2Kjx03SZifdk8OZ0Yb45sYK4NUoLrU05N+d78ARAKrs7DvY749lBWsaM+RUVuYfX44R2Z37FbZF/y026H9XfS/cNbVDt/PmatHN7w87vDeei2LOytvgXH7ND1j88trDNsyz3IT2MZ0AKfLDzxsdxxCMmH6/DdH+o8BuWxuvw9ue/nOGXb85x1R98Tf7z13P899tzXPs3EwRBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEATxcfA/EtETYXwcJTYAAAAASUVORK5CYII=" group-title="PORTUGAL",CASA E COZINHA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6710.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen HD" tvg-name="24 KITCHEN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-24kitchen-xs.gif" group-title="PORTUGAL",24 KITCHEN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6839.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen HD" tvg-name="24 KITCHEN HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/24kitchen_85x70.jpg" group-title="PORTUGAL",24 KITCHEN HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6840.m3u8
+#EXTINF:-1 tvg-id="---------------Portugal---------------" tvg-name="MY CUISINE" tvg-logo="https://www.salon-saveurs.com/wp-content/uploads/2017/10/MYCUISINE-LOGOTYPE-ENCERCLE-CMJN-FONDBLANC-e1542880166429.jpg" group-title="PORTUGAL",MY CUISINE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6841.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="Food Network" tvg-logo="https://i.pinimg.com/originals/3a/2a/ce/3a2aceb2bb6c7f38c09d5f0baf38d00d.jpg" group-title="PORTUGAL",Food Network
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6738.m3u8
+#EXTINF:-1 tvg-id="Mas Chic3" tvg-name="MAS CHIC" tvg-logo="https://cdn.mitvstatic.com/channels/sv_mas-chic_m.png" group-title="PORTUGAL",MAS CHIC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6848.m3u8
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="TRAVEL CHANNEL" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-travel-xs.gif" group-title="PORTUGAL",TRAVEL CHANNEL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6849.m3u8
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-travel-hd-xs.gif" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GINX ESPORTS TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ginx-xs.gif" group-title="PORTUGAL",GINX ESPORTS TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6851.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/wHeWyVD.png" group-title="PORTUGAL",CGTN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43646.m3u8
+#EXTINF:-1 tvg-id="IU TV" tvg-name="IU" tvg-logo="https://i.imgur.com/3w36yOS.jpg" group-title="PORTUGAL",IU
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43649.m3u8
+#EXTINF:-1 tvg-id="Canal UM Europa" tvg-name="UM EUROPA" tvg-logo="https://pbs.twimg.com/profile_images/870718021832015872/z_O-pJQ4_400x400.jpg" group-title="PORTUGAL",UM EUROPA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6853.m3u8
+#EXTINF:-1 tvg-id="Fine Living Network HD" tvg-name="FINE LIVING NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="PORTUGAL",FINE LIVING NETWORK
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6854.m3u8
+#EXTINF:-1 tvg-id="GAMETOON FHD" tvg-name="GAMETOON" tvg-logo="https://yt3.ggpht.com/a/AGF-l78fkr-OQ_uOSl_7She0CuIXEX24OLD2QfHWPw=s900-c-k-c0xffffffff-no-rj-mo" group-title="PORTUGAL",GAMETOON
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6855.m3u8
+#EXTINF:-1 tvg-id="DOG TV" tvg-name="DOG TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-dog-tv-xs.gif" group-title="PORTUGAL",DOG TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6858.m3u8
+#EXTINF:-1 tvg-id="Luxe TV FHD" tvg-name="LUXE TV HD" tvg-logo="https://i.imgur.com/GhPh4W5.jpg" group-title="PORTUGAL",LUXE TV HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43644.m3u8
+#EXTINF:-1 tvg-id="FASHION TV (FTV) HD" tvg-name="FASHION TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fashion-xs.gif" group-title="PORTUGAL",FASHION TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKa2DEU4fYQiFz4m4TIx02_qtqexF2LI7IvW0i9rCVaHulHGc&s" group-title="PORTUGAL",KURIAKOS TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6860.m3u8
+#EXTINF:-1 tvg-id="TV Fatima" tvg-name="FATIMA TV" tvg-logo="https://www.wtvision.com/wp-content/uploads/Fatima-tv-2-1200x565.jpg" group-title="PORTUGAL",FATIMA TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6861.m3u8
+#EXTINF:-1 tvg-id="CANÇÃO NOVA TV" tvg-name="CANCAO NOVA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cancao-nova-xs.gif" group-title="PORTUGAL",CANCAO NOVA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6862.m3u8
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV Portugal" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-mtv-xs.gif" group-title="PORTUGAL",MTV Portugal
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6863.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE" tvg-logo="https://2.bp.blogspot.com/-LoEVIeJAFVs/W2Wf7MeYgsI/AAAAAAAA3GI/MHBd2ZQmez8x1w6cXc7CXmY0oAMl-D14QCLcBGAs/s1600/MTV%2Blive.jpg" group-title="PORTUGAL",MTV LIVE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6865.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/vh1_85x70.jpg" group-title="PORTUGAL",VH1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="PORTUGAL",VH1 Classic
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/44756.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-name="TRACE URBAN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-trace-urban-xs.gif" group-title="PORTUGAL",TRACE URBAN
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6867.m3u8
+#EXTINF:-1 tvg-id="Trace Toca" tvg-name="TRACE TOCA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-trace-toca-xs.gif" group-title="PORTUGAL",TRACE TOCA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6869.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-name="TRACE URBAN HD" tvg-logo="https://1.bp.blogspot.com/-KoExo9-_xBQ/VyN_ui73OgI/AAAAAAAABjg/c0seUhGhePEtugwjZY1e8MJ4zeTA-6yMgCLcB/s1600/60da3b05e5651072045227758f0245b1.png" group-title="PORTUGAL",TRACE URBAN HD
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6870.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://i.imgur.com/pkB4cO5.png" group-title="PORTUGAL",M6
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43648.m3u8
+#EXTINF:-1 tvg-id="Clubbing TV" tvg-name="CLUBBING TV" tvg-logo="https://i.imgur.com/ugRRrYB.png" group-title="PORTUGAL",CLUBBING TV
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/43647.m3u8
+#EXTINF:-1 tvg-id="MVM (music)" tvg-name="MVM" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/mvm_85x70.jpg" group-title="PORTUGAL",MVM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6871.m3u8
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/mcmpop_85x70.jpg" group-title="PORTUGAL",MCM POP
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6872.m3u8
+#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOP" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-mcm-top-xs.gif" group-title="PORTUGAL",MCM TOP
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6873.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-afro-music-xs.gif" group-title="PORTUGAL",AFRO MUSIC
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6878.m3u8
+#EXTINF:-1 tvg-id="mezzo" tvg-name="MEZZO" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/mezzo_85x70.jpg" group-title="PORTUGAL",MEZZO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/6882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="" group-title="RADIO",ANTENA 1
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 VIDA" tvg-logo="" group-title="RADIO",ANTENA 1 VIDA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARIBE" tvg-logo="" group-title="RADIO",CARIBE
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CIDADE FM" tvg-logo="" group-title="RADIO",CIDADE FM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FADO" tvg-logo="" group-title="RADIO",FADO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M80" tvg-logo="" group-title="RADIO",M80
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARGINAL" tvg-logo="" group-title="RADIO",MARGINAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HITS" tvg-logo="" group-title="RADIO",MEGA HITS
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OXIGENIO" tvg-logo="" group-title="RADIO",OXIGENIO
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADAR" tvg-logo="" group-title="RADIO",RADAR
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMERCIAL" tvg-logo="" group-title="RADIO",COMERCIAL
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RENASCENCA" tvg-logo="" group-title="RADIO",RENASCENCA
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFM 80" tvg-logo="" group-title="RADIO",RFM 80
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="" group-title="RADIO",RFM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCEANO PACIFICO " tvg-logo="" group-title="RADIO",OCEANO PACIFICO 
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSF" tvg-logo="" group-title="RADIO",TSF
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER FM" tvg-logo="" group-title="RADIO",SUPER FM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPULAR FM" tvg-logo="" group-title="RADIO",POPULAR FM
+http://abds.codisa.cf:8080/live/IDVBF/IDVBF/8643.m3u8
