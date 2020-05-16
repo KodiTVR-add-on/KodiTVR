@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR yellow]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR green] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR yellow]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 09.05.2020[/COLOR][COLOR yellow] =====[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR green]===== [/COLOR][COLOR green]ACTUALIZADO EM 09.05.2020[/COLOR][COLOR green] =====[/B][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:RTP 1 HD
 http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:RTP 2 HD
