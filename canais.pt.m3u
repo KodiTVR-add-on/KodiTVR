@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR green]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 1
 [COLOR blue][B]KodiTVR[/B][/COLOR]http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 2
