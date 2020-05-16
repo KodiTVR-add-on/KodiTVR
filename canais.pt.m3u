@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR green]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
-<link>plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/D</link>
+<link>KodiTVRhttp://perfect.ddnsfree.com:8000/D</link>
 #EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 <link>https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg</link>
 #EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR green]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 14.05.20[/COLOR][COLOR green] =====[/B][/COLOR]
-<link>plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live</link>
+<link>KodiTVRhttp://orbit-iptv.com:2500/live</link>
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 1
-<link>plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8</link>
+<link>[COLOR blue][B]KodiTVR[/B][/COLOR]http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8</link>
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 2
 <link>[COLOR blue][B]KodiTVR[/B][/COLOR]http://meon-pro.com:80/live/kitchen/kitchen/555.m3u8</link>
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC
