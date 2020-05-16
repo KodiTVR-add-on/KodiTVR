@@ -1,40 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR green]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/D
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 #EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR green]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 07.04.2020[/COLOR][COLOR green] =====[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT-L: RTP 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 1 FHD
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/145.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT-L: RTP 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 2 FHD
