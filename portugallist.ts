@@ -1,17 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR yellow]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-============================================================================
 #EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR yellow]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 09.05.2020[/COLOR][COLOR yellow] =====[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:RTP 1 HD
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:RTP 2 HD
@@ -42,9 +33,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:Trace Urban" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:Trace Urban
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2537.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PT:Travel Channel" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:Travel Channel
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2538.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE 1 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:TV CINE 1 HD
@@ -71,7 +59,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:VH1 Classic" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:VH1 Classic
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2550.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PT:Sportv HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:Sportv HD
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:SPORT TV 1 HD
@@ -124,10 +111,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:Canal Q" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:Canal Q
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2489.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PT:CaçaVision" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:CaçaVision
 plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://zalhdplus.com:2095/live/Moradabdorabbocanadan/rMhIXGgcaC/2490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT:Caça e Pesca" tvg-logo="" group-title="PORTUGAL HD", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PT:Caça e Pesca
