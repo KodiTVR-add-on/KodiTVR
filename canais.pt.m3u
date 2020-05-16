@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 1
 <link>plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8</link>
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 2
-<link>plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/555.m3u8</link>
+<link>[COLOR blue][B]KodiTVR[/B][/COLOR]http://meon-pro.com:80/live/kitchen/kitchen/555.m3u8</link>
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC
 <link>plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/556.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://oslo-meon.ddns.net/logodvb/tvi.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI
