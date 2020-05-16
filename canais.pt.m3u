@@ -8,7 +8,7 @@ KodiTVRhttp://orbit-iptv.com:2500/live
 #EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT-L: RTP 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 1 FHD
-plugin://plugin.video.f4mTester/?url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/145.m3u8&amp;streamtype=M3UDOWNLOADER
+<link>plugin://plugin.video.f4mTester/?url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/145.m3u8&amp;streamtype=M3UDOWNLOADER</link>
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT-L: RTP 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 2 FHD
 http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/146.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:-L SIC FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT:-L SIC FHD
