@@ -1,19 +1,19 @@
 <channels>
 <channel>
 <name>[COLOR yellow][B][COLOR blue][B]=[/COLOR][/B]KodiTVR_FILMES_ONLINE[COLOR blue][B]=[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
+<thumbnail>https://imgur.com/hVBz6Kb.png</thumbnail>
 <genre>Filmes</genre>
 <info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR-Filmes addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<fanart>https://imgur.com/4s7yAiN.jpg</fanart>
 </channel>
 </channels>
   
 <channels>
 <channel>
 <name>[COLOR red][B]...FILMES-TORRENT-M3U...[/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
+<thumbnail>https://imgur.com/AREDNxT.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/filmes%20torrent.m3u</externallink>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
+<fanart>https://imgur.com/cPd7vTZ.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -21,9 +21,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 1[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/filmes.koditvr.png</thumbnail>
+<thumbnail>https://imgur.com/cPd7vTZ.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%201</externallink>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cine.filmes.jpg</fanart>
+<fanart>https://imgur.com/qKjI7bi.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes da lista 1 tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 2[/COLOR][/B]</name>
-<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/filmes.fanart.jpg</thumbnail>
+<thumbnail>https://imgur.com/KthTkM4.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%202</externallink>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/fita.cine.jpg</fanart>
+<fanart>https://imgur.com/hVBz6Kb.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes da lista 2 tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -41,9 +41,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 3[/COLOR][/B]</name>
-<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/fita.cine.jpg</thumbnail>
+<thumbnail>https://imgur.com/vq0j8zC.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%203</externallink>
-<fanart>https://archive.org/download/Cinema.movies/Cinema.movies.jpg</fanart>
+<fanart>https://imgur.com/rauYQKA.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes da lista 3 tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -51,9 +51,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]KodiTVR-Filmes-lista 4[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr-faroeste.png</thumbnail>
+<thumbnail>https://imgur.com/Ppz4MCn.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%20faroeste%204</externallink>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.faroeste.jpg</fanart>
+<fanart>https://imgur.com/peE0icY.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes da lista 4 tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -61,9 +61,9 @@
 <channels>
 <channel>
 <name>[COLOR yellow][B]KodiTVR-Filmes-(Gdrive)[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png</thumbnail>
+<thumbnail>https://imgur.com/LCISZ00.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/Filmes%205%20com%20v%C3%A1rios%20links</externallink>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
+<fanart>https://imgur.com/zND3y2j.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -71,19 +71,19 @@
 <channels>
 <channel>
 <name>[COLOR red][B][COLOR blue][B]...[/COLOR][/B]KodiTVR-SÉRIES-TORRENT[COLOR blue][B]...[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv-online.filmes.s%C3%A9ries.jpg</thumbnail>
+<thumbnail>https://imgur.com/WrwZ75W.png</thumbnail>
 <genre>Séries-Torrent</genre>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cine.tvshows.jpg</fanart>
+<fanart>https://imgur.com/Gs7yRPP.jpg</fanart>
 </channel>
 </channels>
 
 <channels>
 <channel>
 <name>[COLOR blue][B]SÉRIES: Prison Break, La Casa de Papel, Narcos[/COLOR][/B]</name>
-<thumbnail>https://ia801400.us.archive.org/3/items/fanart.update/sVp.png</thumbnail>
+<thumbnail>https://imgur.com/cJvGGMB.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/koditvr%20s%C3%A9ries</externallink>
-<fanart>https://ia801400.us.archive.org/3/items/fanart.update/hollywood.jpg</fanart>
+<fanart>https://imgur.com/OqHUVEE.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
@@ -94,6 +94,16 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCn38j0ywf6N1ropmPfJLvjoSrj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/AlexBarros74/KodiTVR/master/s%C3%A9rie%20true%20justice</externallink>
 <fanart>https://image.tmdb.org/t/p/original/j0Zg44IvczZPiptiZ3ablfZCUlk.jpg</fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]..::KodiTVR-SÉRIE-Infantil(Kids)::..[/COLOR][/B]</name>
+<thumbnail>https://imgur.com/b6McQ79.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-iptv/master/base-Filmes%20infantis.xml</externallink>
+<fanart>https://imgur.com/Gs7yRPP.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
 </channel>
 </channels>
