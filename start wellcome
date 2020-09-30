@@ -102,9 +102,9 @@
 <channel>
 <name>[COLOR red][B]..::KodiTVR-SÉRIE-Infantil(Kids)::..[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/b6McQ79.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-iptv/master/base-Filmes%20infantis.xml</externallink>
+<externallink>https://pastebin.com/raw/91unnvZ8</externallink> https://pastebin.com/raw/91unnvZ8
 <fanart>https://imgur.com/Gs7yRPP.jpg</fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries torrent tem que instalar o add-on Elementum, site para instalar, onde tem para todas as plataformas: https://elementum.surge.sh[/COLOR][/B]</info>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries recomenda instalar o Kodi[/COLOR][/B]</info>
 </channel>
 </channels>
 
