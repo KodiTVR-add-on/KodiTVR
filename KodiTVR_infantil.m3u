@@ -1,0 +1,566 @@
+#EXTM3U
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR] ;url=
+
+#EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
+skip
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E1 T1
+https://assistonlineapi.online/make/check/?list=1dadad9593039bfe
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E2 T1
+https://assistonlineapi.online/make/check/?list=6495d1142eac1598
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E3 T1
+https://assistonlineapi.online/make/check/?list=80dba92205d009fa
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E4 T1
+https://assistonlineapi.online/make/check/?list=aeb949ae75213140
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E5 T1
+https://assistonlineapi.online/make/check/?list=7667bb04edc9af54
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E6 T1
+https://assistonlineapi.online/make/check/?list=1772002209fda856
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E7 T1
+https://assistonlineapi.online/make/check/?list=cf3bd60e5e6d6d1e
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E8 T1
+https://assistonlineapi.online/make/check/?list=6f6bce18b3f2eb86
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E9 T1
+https://assistonlineapi.online/make/check/?list=6f6bce18b3f2eb86
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E10 T1
+https://assistonlineapi.online/make/check/?list=d842d00d623638fb
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E11 T1
+https://assistonlineapi.online/make/check/?list=5cd5cc4bed3eefcc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E12 T1
+https://assistonlineapi.online/make/check/?list=e78177e212e671fb
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E13 T1
+https://assistonlineapi.online/make/check/?list=286fa1ad78a49216
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E14 T1
+https://assistonlineapi.online/make/check/?list=2661932b362b6b68
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E15 T1
+https://assistonlineapi.online/make/check/?list=a58c99af5b61a5aa
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E16 T1
+https://assistonlineapi.online/make/check/?list=c53afb64f06abb14
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E17 T1
+https://assistonlineapi.online/make/check/?list=4d8bbb1ce35a1f4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E18 T1
+https://assistonlineapi.online/make/check/?list=2e0b2898858a82bc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E19 T1
+https://assistonlineapi.online/make/check/?list=2e0b2898858a82bc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E20 T1
+https://assistonlineapi.online/make/check/?list=8859c47f981d51f8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E21 T1
+https://assistonlineapi.online/make/check/?list=8859c47f981d51f8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E22 T1
+https://assistonlineapi.online/make/check/?list=cf7cdcd6c91e6e52
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E23 T1
+https://assistonlineapi.online/make/check/?list=b63c444785ec6a5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E24 T1
+https://assistonlineapi.online/make/check/?list=603352fb8566c6a2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E25 T1
+https://assistonlineapi.online/make/check/?list=a1508f6ba3cace16
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E26 T1
+https://assistonlineapi.online/make/check/?list=7edcae3bbf8110d7
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E27 T1
+https://assistonlineapi.online/make/check/?list=ba22c0bccf2268
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E28 T1
+https://assistonlineapi.online/make/check/?list=ea9fa5ff1923ef3f
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E29 T1
+https://assistonlineapi.online/make/check/?list=7217ca9664709a86
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E30 T1
+https://assistonlineapi.online/make/check/?list=bedf90cb1508b35c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E31 T1
+https://assistonlineapi.online/make/check/?list=fd51f3c37fb2973e
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E32 T1
+https://assistonlineapi.online/make/check/?list=228ac47f0e762da4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E33 T1
+https://assistonlineapi.online/make/check/?list=1244ecdc60adf86d
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E34 T1
+https://assistonlineapi.online/make/check/?list=1244ecdc60adf86d
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E35 T1
+https://assistonlineapi.online/make/check/?list=ea41bd77a91e849e
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E36 T1
+https://assistonlineapi.online/make/check/?list=426b9eeb393bb465
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E37 T1
+https://assistonlineapi.online/make/check/?list=53426fe20fa1bd97
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E38 T1
+https://assistonlineapi.online/make/check/?list=d09251c0fca2706
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E39 T1
+https://assistonlineapi.online/make/check/?list=43980df3a2cf6834
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E40 T1
+https://assistonlineapi.online/make/check/?list=ce5ad105ba8f458e
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E41 T1
+https://assistonlineapi.online/make/check/?list=23bc3ed247aa5fc1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E42 T1
+https://assistonlineapi.online/make/check/?list=10741edfc70c7a8d
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E1T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E2 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E3 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E4 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/04.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E5 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/05.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E6 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/06.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E7 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/07.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E8 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/08.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E9 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/09.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E11 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/011.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E12 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/012.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E13 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E14 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/14.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E15 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/15.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E16 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/16.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E16 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/16.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E17 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/17.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E18 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/18.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E19 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/19.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E20 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/20.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E21 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/21.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E22 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/22.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E23 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/23.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E24 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/24.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E25 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/25.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E26 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/26.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E27 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/27.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E28 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/28.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E29 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/29.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E30 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/30.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E31 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/31.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E32 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/32.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E33 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/33.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E34 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/34.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E35 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/35.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E36 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/36.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E37 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/37.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E38 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/38.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E39 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/39.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E40 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/40.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E41 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/41.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E42 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/42.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E43 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/43.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E44 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/44.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E45 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/45.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E46 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/46.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E47 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/47.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E48 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/48.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E49 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/49.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E50 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/50.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E51 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/51.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E52 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/52.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E53 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/53.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E54 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/54.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E55 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/55.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10"6 group-title="Dragon Ball Super",  Dragon Ball Super E56 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/56.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E57 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/57.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E58 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/57.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E59 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/59.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E60 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/60.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E61 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/61.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E62 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/62.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E63 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/63.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E64 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/64.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E65 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/46.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E66 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/66.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E67 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/67.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E68 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/68.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E69 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/69.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E70 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/70.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E71 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/71.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E72 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/72.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E73 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/73.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E74 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/74.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E75 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/75.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E76 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/76.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E77 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/77.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E78 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/78.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E79 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/79.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E80 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/80.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E81 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/81.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E82 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/82.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E83 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/83.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E84 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/84.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E85 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/85.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E86 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/86.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E87 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/87.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E88 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/88.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E89 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/89.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super  E90 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/90.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E91 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/91.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E92 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/92.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E93 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/93.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E94 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/94.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E95 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/95.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E96 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/96.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E97 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/97.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E98 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/98.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E99 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/99.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E100 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/100.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E101 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/101.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E102 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/102.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E104 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/103.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E105 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/105.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E106 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/106.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E106 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/106.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E107 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/107.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E108 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/108.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E109 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/109.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E110 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/111.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E112 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/112.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E113 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/113.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E114 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/114.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E115 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/115.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E116 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/116.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E117 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/117.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E118 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/118.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E119 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/119.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E120 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/120.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E121 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/121.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E122 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/122.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E123 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/123.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E124 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/125.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E126 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/126.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E127 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/127.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E128 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/128.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E129 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/129.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E130 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/130.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E131 T1
+https://servertv001.com/animes/d/dragon-ball-super-dublado/131.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1xeAIp.jpg" group-title=FILMES LANÇAMENTO" pltv-subgroup="Filmes 2019",O Menino Que Queria Ser Rei 
+https://lh3.googleusercontent.com/-N9THwb8oNvA/XL3vVeYJRsI/AAAAAAAAANk/h5SK9kCevqQy77_ab9xdfcG37Vaw4fzYwCKgBGAs/m22/O.Menino.que.%2BQueria.Ser.%2BRei.mkv 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mzxk4Lz.jpg" group-title="FILMES LANÇAMENTO" pltv-subgroup="Filmes 2019",A Máquina de Lembranças 
+https://www.googleapis.com/drive/v3/files/1U3caPtKaWR4JgepKjbslp9XoJZrGl_8w?alt=media&key=AIzaSyBpGu8j3PJI_wNuohCIodyFV-T0-VBEh0U&name=[MegacineApp]amaquinadelembrancas_DUB_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6doewmC.jpg" group-title="FILMES DE TERROR" pltv-subgroup="Filmes 2019",A Maldição da Chorona 
+https://lh3.googleusercontent.com/-AyCugqXzhPk/XLtclCr-vRI/AAAAAAAAAD4/HhZByk0Bg9E7P1f-Yes5juLY9JgCRZHgQCKgBGAs/m22/The.Curse.of.La.Llorona..mp4 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP01 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!108&authkey=!ACYwAcLefMIY2Vg 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP02 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!107&authkey=!AGS1Kk5Hc_r54Eg 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP03 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!106&authkey=!ADSsLMJM1Hx7b5c 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP04 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!110&authkey=!AA0mBvjjzH8uFig 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP05 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!109&authkey=!AH7zFb99JTfI2Rs 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP06 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!111&authkey=!APxNqTnrNzAWxuY 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP07 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!113&authkey=!AAFwvG6MHEjIvqU 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP08 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!112&authkey=!AINnAWZsm7nrWC4 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP09 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=61E1070585CFE188!114&authkey=!AJYG3bH-q4vnjdo 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP10 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=5B47BE5BE3D3A59F!106&authkey=!ACgb5kV0EAZttXs 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP11 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=5B47BE5BE3D3A59F!108&authkey=!ABtj4VhX_JHNdWY 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP12 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=5B47BE5BE3D3A59F!107&authkey=!AFXqvGGxBfj4j3g 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="12 Monkeys",T1EP13 DUB 12 Monkeys 
+https://onedrive.live.com/download?resid=5B47BE5BE3D3A59F!109&authkey=!ABE5FmkEcwGMjf0 
