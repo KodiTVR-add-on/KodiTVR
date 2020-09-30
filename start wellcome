@@ -100,6 +100,16 @@
 
 <channels>
 <channel>
+<name>[COLOR red][B]..::KodiTVR-FILMES/SÉRIES_VÁRIOS(M3U)::..[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/zND3y2j.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/Film_KodiTVR.m3u</externallink> 
+<fanart>https://i.imgur.com/692iiKi.png</fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries/filmes M3U recomenda instalar o Kodi...TELEVISION...VILA REAL![/COLOR][/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR red][B]..::KodiTVR-FILMES/SÉRIES_Infantil(Kids) + vários::..[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/b6McQ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/KodiTVR_infantil.m3u</externallink> 
