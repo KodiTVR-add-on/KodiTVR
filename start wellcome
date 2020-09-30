@@ -100,11 +100,11 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]..::KodiTVR-SÉRIE-Infantil(Kids)::..[/COLOR][/B]</name>
+<name>[COLOR red][B]..::KodiTVR-FILMES/SÉRIES_Infantil(Kids) + vários::..[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/b6McQ79.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/KodiTVR_infantil.m3u</externallink> 
 <fanart>https://imgur.com/Gs7yRPP.jpg</fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries recomenda instalar o Kodi[/COLOR][/B]</info>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries/filmes recomenda instalar o Kodi...[/COLOR][/B]</info>
 </channel>
 </channels>
 
