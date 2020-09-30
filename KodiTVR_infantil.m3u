@@ -4,6 +4,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
+#EXTINF:-1, KodiTVR|FILME Superman O Homem do Amanhã 2020
+https://ebaflix.com/videos/filmes/tt11079116.mp4
+#EXTINF:-1, KodiTVR|FILME Aventuras de Betty
+https://vze.azureedge.net/movies/toystory4-dub-1080p.mp4
+#EXTINF:-1, KodiTVR|FILME SCOOBY
+https://ebaflix.com/videos/filmes/tt3152592.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E1 T1
 https://assistonlineapi.online/make/check/?list=1dadad9593039bfe
 
