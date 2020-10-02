@@ -13,6 +13,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
+#EXTINF:-1, KodiTVR|FILME CRIME SEM SAÍDA
+https://filmeseseries.s3-sa-east-1.amazonaws.com/filmes/Crime.Sem.Sa__da.2019.DUB.mp4
+#EXTINF:-1, KodiTVR|FILME DEPOIS DO APOCALIPSE
+http://one.fancuriosidades.com/s/03/tt5085522.mp4
+#EXTINF:-1, KodiTVR|FILME PROJETO POWER
+https://vze.azureedge.net/movies/projetopower-dub-720p.mp4
+#EXTINF:-1, KodiTVR|FILME Corpus Christi, A Redenção
+https://ebaflix.com/videos/filmes/tt8649186.mp4
+#EXTINF:-1, KodiTVR|FILME O TÚNEL
+https://vze.azureedge.net/movies/otunel-dub-1080p.mp4
 #EXTINF:-1, KodiTVR|FILME Coringa
 https://vze.azureedge.net/movies/coringa-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME Freaks Um De Nós (2020)
