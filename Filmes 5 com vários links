@@ -102,7 +102,13 @@
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </item>
 
-
+<item>
+<title>El Chicano</title>
+<link>plugin://plugin.video.playthis/?mode=play&player=false&path=https://streamtape.com/e/o2w72Qeql3uJllL/El.Chicano.O.Mito.2019.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on PlayThis.[/COLOR][/B]</info>
+</item>
 
 
 
