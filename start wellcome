@@ -112,7 +112,7 @@
 <channel>
 <name>[COLOR blue][B]..::KodiTVR-FILMES/SÉRIES_VÁRIOS(XML)::..[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/IzfGyTe.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/</externallink> 
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/Film_xml.xml</externallink> 
 <fanart>https://i.imgur.com/692iiKi.png</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estas séries/filmes XML recomenda instalar o Kodi...TELEVISION...VILA REAL![/COLOR][/B]</info>
 </channel>
