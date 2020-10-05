@@ -110,5 +110,11 @@
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </item>
 
-
+<item>
+<title>Vigiados</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b2h7Jmca3jEFq0iu-izzhk0smHB5iUAl/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
 
