@@ -118,6 +118,14 @@
 </channel>
 </channels>
 
+<item>
+<title>El Chicano</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR/master/Film_xml.xml</externallink>
+<thumbnail></thumbnail>	 
+<fanart></fanart>  
+</item>
+
 <channels>
 <channel>
 <name>[COLOR red][B]..::KodiTVR-FILMES/SÉRIES_Infantil(Kids)::..[/COLOR][/B]</name>
