@@ -13,37 +13,26 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
-#EXTINF:-1, KodiTVR|FILME Anelka – O incompreendido
-https://ebaflix.com/videos/filmes/tt5827790.mp4
+#EXTINF:-1, KodiTVR|FILME ADÚ
+https://m.kfilmes.club/Adu.2020.1080p.WEB.x264-DUAL-COMANDO.TO.mp4
 #EXTINF:-1, KodiTVR|FILME CRIME SEM SAÍDA
 https://filmeseseries.s3-sa-east-1.amazonaws.com/filmes/Crime.Sem.Sa__da.2019.DUB.mp4
 #EXTINF:-1, KodiTVR|FILME DEPOIS DO APOCALIPSE
 http://one.fancuriosidades.com/s/03/tt5085522.mp4
 #EXTINF:-1, KodiTVR|FILME PROJETO POWER
 https://vze.azureedge.net/movies/projetopower-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME Corpus Christi, A Redenção
-https://ebaflix.com/videos/filmes/tt8649186.mp4
 #EXTINF:-1, KodiTVR|FILME O TÚNEL
 https://vze.azureedge.net/movies/otunel-dub-1080p.mp4
 #EXTINF:-1, KodiTVR|FILME Coringa
 https://vze.azureedge.net/movies/coringa-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME Freaks Um De Nós (2020)
-https://ebaflix.com/videos/filmes/tt12875782.mp4
-#EXTINF:-1, KodiTVR|FILME Arsenal
-https://ebaflix.com/videos/filmes/tt5580536.mp4
-#EXTINF:-1, KodiTVR|FILME Seberg Contra Todos
-https://ebaflix.com/videos/filmes/tt1780967.mp4
-#EXTINF:-1, KodiTVR|FILME Doce Vingança 3 
-https://ebaflix.com/videos/filmes/tt4530884.mp4
 #EXTINF:-1, KodiTVR|FILME Aves de Rapina
 https://vze.azureedge.net/movies/birdsofpreyts-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME 1917 
 https://vze.azureedge.net/movies/1917-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME Fuga de Auschwitz
-https://ebaflix.com/videos/filmes/tt10944744.mp4
 #EXTINF:-1, KodiTVR|FILME O Resgate
 https://filmeseseries.s3-sa-east-1.amazonaws.com/filmes/resgate.2020.mp4
-
+#EXTINF:-1, KodiTVR|FILME Arsenal
+http://aranami.lhmtv.gq/filmes/tt5580536LEG.mp4
 
 ##########################################################################################################################
 ## LISTA_FILMES. NÃO COPIE APENAS, COPIOU E PARTILHOU. DEIXE OS CRÉDITOS! O MELHOR DA KOD'IPTV_VOD! FUCK YOU GRUPETA... ##
