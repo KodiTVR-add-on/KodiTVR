@@ -126,3 +126,18 @@
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </item>
 
+<item>
+<title>Origens Secretas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jP48TgfNX8p9irGF0wk5FmL7lXNj_zXU/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>Operação Obscura</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ProQpeot70v0f0Ai1MLtgGeBIIZxXcxg/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>

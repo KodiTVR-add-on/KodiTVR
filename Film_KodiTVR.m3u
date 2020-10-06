@@ -13,8 +13,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
-#EXTINF:-1, KodiTVR|FILME Origens Secretas
-https://ebaflix.com/videos/filmes/tt5827790.mp4
 #EXTINF:-1, KodiTVR|FILME Anelka – O incompreendido
 https://ebaflix.com/videos/filmes/tt5827790.mp4
 #EXTINF:-1, KodiTVR|FILME CRIME SEM SAÍDA
