@@ -13,6 +13,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
+#EXTINF:-1, KodiTVR|FILME O PARASITA
+https://vze.azureedge.net/movies/parasita-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME Pantera Negra
 https://vze.azureedge.net/movies/blackpanther-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME ADÚ
