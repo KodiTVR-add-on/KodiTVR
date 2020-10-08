@@ -150,5 +150,11 @@
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </item>
 
-
+<item>
+<title>WALKING DEAD WORLD BEYIND</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pHyS9j39DRNMZJQxNgCwrqlK3v3KL_us/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
 
