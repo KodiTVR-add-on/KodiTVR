@@ -182,4 +182,10 @@
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </item>
 
-
+<item>
+<title>Caixa Preta </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hs5Wu3D1_K6waKtBur43btzxhyhjvlIu/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
