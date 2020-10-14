@@ -55,38 +55,6 @@
 </item>
 
 <item>
-<title>MAD MAX 1</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z12xa9xIRLK_OUTZIvvkXI-CmQwSq0jq/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>MAD MAX 2 - A CAÇADA CONTINUA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-XBglB4B9Os0O0ElPudKim024WJ-F0Uj/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>MAD MAX-3 ALÉM DA CÚPULA DO TROVÃO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-XqhO2Bsb1s0-8O8SY9MpxxUpYr1Vx75/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>MAD MAX ESTRADA DA FÚRIA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/146Mspra-QAxTuoIws--LKxtvae2r-Yi-/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
 <title>Na Rota Do Tráfico</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10gw2oU2FxXNpXlhOrY1gGkqWB-DXdPVJ/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
@@ -119,24 +87,8 @@
 </item>
 
 <item>
-<title>A Babysitter: Rainha da Morte</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PvlVh2G7alpL3qiCsixhfUkVlE0y3p9E/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
 <title>Origens Secretas</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jP48TgfNX8p9irGF0wk5FmL7lXNj_zXU/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>Operação Obscura</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ProQpeot70v0f0Ai1MLtgGeBIIZxXcxg/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
@@ -153,22 +105,6 @@
 <item>
 <title>WALKING DEAD WORLD BEYIND</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pHyS9j39DRNMZJQxNgCwrqlK3v3KL_us/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>Cura Fatal (2020)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WdyhX-DqMkf-0HpDLJMkEV7z74xtQLC3/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
-</item>
-
-<item>
-<title>13 HORAS, OS SOLDADOS SECRETOS DE BENGHAZI</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16HuPeN_fOOQsXXEHL9EMwf0SLlo1H-oL/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
@@ -193,6 +129,70 @@
 <item>
 <title>Mentira Incondicional</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ingnlrpiqrhDOaZpeblqwpcCZt8UJSZA/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>MAD MAX 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z12xa9xIRLK_OUTZIvvkXI-CmQwSq0jq/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>MAD MAX 2 - A CAÇADA CONTINUA</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-XBglB4B9Os0O0ElPudKim024WJ-F0Uj/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>MAD MAX-3 ALÉM DA CÚPULA DO TROVÃO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-XqhO2Bsb1s0-8O8SY9MpxxUpYr1Vx75/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>MAD MAX ESTRADA DA FÚRIA</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/146Mspra-QAxTuoIws--LKxtvae2r-Yi-/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>13 HORAS, OS SOLDADOS SECRETOS DE BENGHAZI</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16HuPeN_fOOQsXXEHL9EMwf0SLlo1H-oL/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>Cura Fatal (2020)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WdyhX-DqMkf-0HpDLJMkEV7z74xtQLC3/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>Operação Obscura</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ProQpeot70v0f0Ai1MLtgGeBIIZxXcxg/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>A Babysitter: Rainha da Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PvlVh2G7alpL3qiCsixhfUkVlE0y3p9E/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver estes filmes tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
