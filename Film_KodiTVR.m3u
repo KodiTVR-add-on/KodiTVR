@@ -13,30 +13,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
-#EXTINF:-1, KodiTVR|FILME A Caçada (2020)
-https://vze.azureedge.net/movies/acacada-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME A Jornada
-https://vze.azureedge.net/movies/ajornada-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME A Vastidão da Noite
 https://m.kfilmes.club/A.Vastidao.da.Noite.2020.720p.WEB-DL.DDP5.1.H264.DUAL-COMANDO.TO.mp4
-#EXTINF:-1, KodiTVR|FILME O PARASITA
-https://vze.azureedge.net/movies/parasita-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME Pantera Negra
-https://vze.azureedge.net/movies/blackpanther-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME ADÚ
 https://m.kfilmes.club/Adu.2020.1080p.WEB.x264-DUAL-COMANDO.TO.mp4
 #EXTINF:-1, KodiTVR|FILME CRIME SEM SAÍDA
 https://filmeseseries.s3-sa-east-1.amazonaws.com/filmes/Crime.Sem.Sa__da.2019.DUB.mp4
-#EXTINF:-1, KodiTVR|FILME PROJETO POWER
-https://vze.azureedge.net/movies/projetopower-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME O TÚNEL
-https://vze.azureedge.net/movies/otunel-dub-1080p.mp4
-#EXTINF:-1, KodiTVR|FILME Coringa
-https://vze.azureedge.net/movies/coringa-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME Aves de Rapina
-https://vze.azureedge.net/movies/birdsofpreyts-dub-720p.mp4
-#EXTINF:-1, KodiTVR|FILME 1917 
-https://vze.azureedge.net/movies/1917-dub-720p.mp4
 #EXTINF:-1, KodiTVR|FILME O Resgate
 https://filmeseseries.s3-sa-east-1.amazonaws.com/filmes/resgate.2020.mp4
 
