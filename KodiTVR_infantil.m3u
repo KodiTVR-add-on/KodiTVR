@@ -4,12 +4,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=====
 
 #EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
 skip
-#EXTINF:-1, KodiTVR|FILME Superman O Homem do Amanhã 2020
-https://ebaflix.com/videos/filmes/tt11079116.mp4
-#EXTINF:-1, KodiTVR|FILME Aventuras de Betty
-https://vze.azureedge.net/movies/toystory4-dub-1080p.mp4
-#EXTINF:-1, KodiTVR|FILME SCOOBY
-https://ebaflix.com/videos/filmes/tt3152592.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr7Qoyw.jpg" group-title="O ELO PERDIDO" pltv-subgroup="1ª TEMPORADA",1X01 Cha Ka
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr7Qoyw.jpg" group-title="O ELO PERDIDO" pltv-subgroup="1ª TEMPORADA",1X02 O Deus dos Sleesstak
@@ -44,211 +38,142 @@ https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2017%20-%20C%C3%ADrculo.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E1 T1
 https://assistonlineapi.online/make/check/?list=1dadad9593039bfe
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E2 T1
 https://assistonlineapi.online/make/check/?list=6495d1142eac1598
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E3 T1
 https://assistonlineapi.online/make/check/?list=80dba92205d009fa
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E4 T1
 https://assistonlineapi.online/make/check/?list=aeb949ae75213140
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E5 T1
 https://assistonlineapi.online/make/check/?list=7667bb04edc9af54
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E6 T1
 https://assistonlineapi.online/make/check/?list=1772002209fda856
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E7 T1
 https://assistonlineapi.online/make/check/?list=cf3bd60e5e6d6d1e
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E8 T1
 https://assistonlineapi.online/make/check/?list=6f6bce18b3f2eb86
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E9 T1
 https://assistonlineapi.online/make/check/?list=6f6bce18b3f2eb86
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E10 T1
 https://assistonlineapi.online/make/check/?list=d842d00d623638fb
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E11 T1
 https://assistonlineapi.online/make/check/?list=5cd5cc4bed3eefcc
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E12 T1
 https://assistonlineapi.online/make/check/?list=e78177e212e671fb
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E13 T1
 https://assistonlineapi.online/make/check/?list=286fa1ad78a49216
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E14 T1
 https://assistonlineapi.online/make/check/?list=2661932b362b6b68
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E15 T1
 https://assistonlineapi.online/make/check/?list=a58c99af5b61a5aa
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E16 T1
 https://assistonlineapi.online/make/check/?list=c53afb64f06abb14
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E17 T1
 https://assistonlineapi.online/make/check/?list=4d8bbb1ce35a1f4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E18 T1
 https://assistonlineapi.online/make/check/?list=2e0b2898858a82bc
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E19 T1
 https://assistonlineapi.online/make/check/?list=2e0b2898858a82bc
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E20 T1
 https://assistonlineapi.online/make/check/?list=8859c47f981d51f8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E21 T1
 https://assistonlineapi.online/make/check/?list=8859c47f981d51f8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E22 T1
 https://assistonlineapi.online/make/check/?list=cf7cdcd6c91e6e52
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E23 T1
 https://assistonlineapi.online/make/check/?list=b63c444785ec6a5
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E24 T1
 https://assistonlineapi.online/make/check/?list=603352fb8566c6a2
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E25 T1
 https://assistonlineapi.online/make/check/?list=a1508f6ba3cace16
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E26 T1
 https://assistonlineapi.online/make/check/?list=7edcae3bbf8110d7
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E27 T1
 https://assistonlineapi.online/make/check/?list=ba22c0bccf2268
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E28 T1
 https://assistonlineapi.online/make/check/?list=ea9fa5ff1923ef3f
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E29 T1
 https://assistonlineapi.online/make/check/?list=7217ca9664709a86
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E30 T1
 https://assistonlineapi.online/make/check/?list=bedf90cb1508b35c
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E31 T1
 https://assistonlineapi.online/make/check/?list=fd51f3c37fb2973e
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E32 T1
 https://assistonlineapi.online/make/check/?list=228ac47f0e762da4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E33 T1
 https://assistonlineapi.online/make/check/?list=1244ecdc60adf86d
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E34 T1
 https://assistonlineapi.online/make/check/?list=1244ecdc60adf86d
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E35 T1
 https://assistonlineapi.online/make/check/?list=ea41bd77a91e849e
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E36 T1
 https://assistonlineapi.online/make/check/?list=426b9eeb393bb465
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E37 T1
 https://assistonlineapi.online/make/check/?list=53426fe20fa1bd97
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E38 T1
 https://assistonlineapi.online/make/check/?list=d09251c0fca2706
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E39 T1
 https://assistonlineapi.online/make/check/?list=43980df3a2cf6834
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E40 T1
 https://assistonlineapi.online/make/check/?list=ce5ad105ba8f458e
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E41 T1
 https://assistonlineapi.online/make/check/?list=23bc3ed247aa5fc1
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3NWOpiVLDWn6h4WLrPzbHs75ZvGIcHwK5Dyo-R6bQEqbcotNnZxbxBDF4w&s=10" group-title="Campião Sandokai", Campeão Sandokai E42 T1
 https://assistonlineapi.online/make/check/?list=10741edfc70c7a8d
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E1T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/01.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E2 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/02.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E3 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/03.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E4 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/04.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E5 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/05.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E6 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/06.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E7 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/07.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E8 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/08.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E9 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/09.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E11 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/011.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E12 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/012.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E13 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/13.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E14 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/14.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E15 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/15.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E16 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/16.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E16 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/16.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E17 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/17.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E18 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/18.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E19 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/19.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E20 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/20.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E21 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/21.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E22 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/22.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E23 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/23.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E24 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/24.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E25 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/25.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E26 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/26.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E27 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/27.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywMTDlGuLx7l2nC-J-3UCUGHOlJJmCd1lrmVLfQEfzL_ocaGrEhfoFC_f0A&s=10" group-title="Dragon Ball Super",  Dragon Ball Super E28 T1
 https://servertv001.com/animes/d/dragon-ball-super-dublado/28.mp4
 
