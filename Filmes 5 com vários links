@@ -7,6 +7,14 @@
 </item>
 
 <item>
+<title>[COLOR red]Gdrive[/COLOR]</title>
+<link>plugin://plugin.video.playthis/?mode=play&player=false&history=false&path=https://drive.google.com/file/d/1TkXXjztdPIpzSuZoiVBTHz-OUo-NhctV/view?usp=sharing</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR red]RED SPARROW 2018[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1J4nSC1Ahy_IzP17yvXkkyfTMlWqhXhVv</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeyCPepghIobLfd8bijHepSWgR.jpg</thumbnail>
