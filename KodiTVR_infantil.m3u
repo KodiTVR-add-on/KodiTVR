@@ -2,7 +2,7 @@
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR] ;url=
 
-#EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
+#EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR | KIDS)[/COLOR][COLORred]=======I[/COLOR]
 skip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr7Qoyw.jpg" group-title="O ELO PERDIDO" pltv-subgroup="1ª TEMPORADA",1X01 Cha Ka
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
