@@ -9,9 +9,9 @@
 #######################################################
 
 #EXTM3U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR] ;url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLORgreen]I=======[COLORyellow](KodiTVR | MOVIES)[/COLOR][COLORred]=======I[/COLOR] ;url=
 
-#EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR)[/COLOR][COLORred]=======I[/COLOR]
+#EXTINF:-1,[COLORgreen]I=======[COLORyellow](KodiTVR | MOVIES)[/COLOR][COLORred]=======I[/COLOR]
 skip
 #EXTINF:-1, KodiTVR|FILME A Vastidão da Noite
 https://m.kfilmes.club/A.Vastidao.da.Noite.2020.720p.WEB-DL.DDP5.1.H264.DUAL-COMANDO.TO.mp4
